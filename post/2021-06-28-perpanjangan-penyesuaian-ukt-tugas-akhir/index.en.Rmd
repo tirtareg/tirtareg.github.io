@@ -1,0 +1,55 @@
+---
+title: Perpanjangan Penyesuaian UKT Tugas Akhir
+author: registrasi
+date: '2021-06-28'
+slug: []
+categories:
+  - ukt
+tags: []
+description: ''
+thumbnail: ''
+---
+
+Karena batas akhir input nilai adalah 02 Juli 2021, maka pendaftaran penyesuaian UKT bagi mahasiswa yang hanya mengambil Skripsi/Tugas Akhir di semester Ganjil 2021/2022 diperpanjang sampai dengan **03 Juli 2021**. Adapun kriteria dan persyaratannya masih sama seperti pada peride pendaftaran sebelumnya.
+
+Penyesuaian UKT sebesar 50% diberikan kepada mahasiswa dengan kriteria berikut:
+
+-   Berada pada **semester 9 ke atas** (S1) atau **semester 7 ke atas** (D3)
+-   Hanya akan mengambil Mata Kuliah **Tugas Akhir/Skripsi** pada semester ganjil Tahun Akademik 2021/2022
+-   Tidak berlaku bagi kelompok UKT K1 dan K2
+
+Berikut adalah berkas-berkas yang harus disiapkan:
+
+-   Surat Pernyataan bermaterai yang menyatakan sudah menyelesaikan perkuliahan dan hanya akan mengambil Mata Kuliah Tugas Akhir/Skripsi di semester ganjil TA 2021/2022 dan diketahui oleh Dosen Wali dan Kepala Program Studi. Format Surat Pernyataan bisa diunduh setelah anda masuk ke dalam formulir pendaftaran (***login*** **menggunakan email Untirta pendaftar**).
+-   Transkrip nilai terbaru (sampai dengan semester genap TA 2021/2022)
+
+Pendaftaran penyesuaian UKT 50% **hanya bisa dilakukan** dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** dari tanggal **28 Juni -- 03 Juli 2021**.
+
+[![](images/daftar.jpg){width="90" height="42"}](https://docs.google.com/forms/d/e/1FAIpQLSeAnQCdl3no90vsZ6gAPBfJkrCNQOoz9AEYgQufDQ9xyj_eQg/viewform)
+
+<br><br>
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+Sys.setlocale("LC_TIME", "IND") 
+```
+
+Berikut adalah daftar seluruh mahasiswa pendaftar perpanjangan penyesuaian UKT Tugas Akhir semester ganjil Tahun Akademik 2021/2022.
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+# sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
+
+library(googlesheets4)
+gs4_deauth()
+
+data <- NULL
+
+# SNM KIP
+form <- "https://docs.google.com/spreadsheets/d/1rDhS9cn0Mbjk11awIutcKjrZdbrtQx2uBlbl8Fiv-yQ/edit?usp=sharing"
+
+data <- data.frame(read_sheet(form))
+data <- data[,c(1, 4, 7, 19)]
+data <- data[-c(1:3437),]
+names(data) <- c("Waktu Pendaftaran", "Email", "Jalur Masuk", "Jenis Penyesuaian")
+DT::datatable(data, rownames = F)
+
+```

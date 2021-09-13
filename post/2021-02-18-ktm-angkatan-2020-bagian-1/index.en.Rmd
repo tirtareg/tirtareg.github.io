@@ -1,0 +1,28 @@
+---
+title: KTM Angkatan 2020 (bagian 1)
+author: registrasi
+date: '2021-02-18'
+slug: []
+categories: []
+tags: []
+description: ''
+thumbnail: ''
+---
+
+Diinformasikan kepada mahasiswa Angkatan 2020 bahwa sebagian KTM sudah jadi. Bagi yang KTM-nya sudah jadi akan diinformasikan melalui email Untirta masing-masing dan namanya ada di tabel berikut. Mahasiswa Untirta **Wajib memiliki KTM** untuk mempermudah Pelayanan Administrasi. KTM bisa diambil kapan saja di jam kerja kantor BNI Untirta dengan mematuhi protokol kesehatan.
+
+Berikut adalah persyaratan untuk mengambil KTM.
+
+1.  e-KTP
+2.  KRS semester genap
+3.  Setoran awal tabungan minimal sebesar Rp115.000,00
+
+Demikian informasi yang dapat kami sampaikan. Jika ada pertanyaan, silakah hubungi kami [**di sini**](http://wa.me/6281311734542){target="_blank"} <br>
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+library(readxl)
+ktm <- read_excel("G:/My Drive/# REGISTRASI DAN STATISTIK/KTM 2020/REPORT KTM UNTIRTA_2511.xlsx")
+ktm <- ktm[, c(1, 3, 4)]
+
+DT::datatable(ktm, rownames = F)
+```

@@ -1,0 +1,179 @@
+---
+title: KTM Angkatan 2021
+author: registrasi
+date: '2021-04-07'
+slug: []
+categories: []
+tags:
+  - ktm
+  - ktm 2021
+  - snmptn
+  - sbmptn
+  - smmptn
+  - umm
+description: ''
+thumbnail: ''
+---
+
+Kami mengucapkan selamat datang kepada mahasiswa baru Universitas Sultan Ageng Tirtayasa tahun 2021. Untuk melengkapi identitas saudara sebagai mahasiswa, kami membuka pendaftaran Kartu Tanda Mahasiswa (KTM) yang diterbitkan oleh Bank Negara Indonesia (BNI) dan berfungsi sebagai kartu ATM. Kami telah menyediakan formulir pendaftaran KTM sesuai dengan jalur masuk saudara.
+
+Sebelum melakukan pengisian formulir, pastikan saudara telah mempersiapkan foto dengan ketentuan sebagai berikut.
+
+1.  Laki-laki (jas hitam, baju putih, dasi hitam, background merah, ukuran (4×6))
+
+2.  Perempuan (jas hitam/blazer, baju putih, dasi hitam, background merah, ukuran ( 4×6))
+
+3.  Perempuan berjilbab (jilbab warna putih, background merah, jas hitam/blazer tanpa dasi, ukuran (4×6))
+
+4.  File disimpan dalam format jpg dengan ukuran file : **50 KB -- 500 KB**
+
+5.  Jika NIM anda adalah **3331201234** maka nama file foto yang harus diunggah adalah **3331201234.jpg** seperti gambar berikut
+
+    ![](images/tes.jpg)
+
+6.  Pengisian formulir paling lambat tanggal
+
+    -   **09 Mei 2021** untuk jalur SNMPTN
+
+    -   **26 Juli 2021** untuk jalur SBMPTN
+
+    -   **19 Agustus 2021** untuk jalur SMMPTN
+
+    -   **22 Agustus 2021** untuk jalur UMM
+
+**Formulir ini hanya bisa diisi menggunakan email dengan domain \@untirta.ac.id**. Jika saudara mengalami kesulitan dalam mengisi formulir dari kami, silakan pelajari langkah-langkahnya pada video berikut
+
+<iframe width="967" height="544" src="https://www.youtube.com/embed/TnH_MEHd1dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+<br><br>
+
+**Jika Password akun email kamu bermasalah silahkan hubungi nomor berikut : [089643563659](https://wa.me/6289643563659){target="_blank"}, [081911106670](https://wa.me/6281911106670){target="_blank"}, atau [087773916162](https://wa.me/6287773916162){target="_blank"} untuk meminta reset password.**
+
+Berikut adalah formulir pendaftaran KTM sesuai dengan jalur masuk masing-masing (**pastikan mengisi sesuai jalur masuk**).
+
+-   Jalur **SNMPTN Reguler** silakan daftar [**di sini**](https://docs.google.com/forms/d/e/1FAIpQLSeBs8MoLnSHBRHYo_3XrtXJGQP81BdKidAvMAARI9Ebjep0FQ/viewform){target="_blank"}
+-   Jalur **SNMPTN KIP** silakan daftar [**di sini**](https://docs.google.com/forms/d/e/1FAIpQLSfbBiq4r7-C2byyqZ1ifc6kArsEgJmVIOcir9R_t00JvdKd4Q/viewform){target="_blank"}
+-   Jalur **SBMPTN Reguler** silakan daftar [**di sini**](https://docs.google.com/forms/d/e/1FAIpQLScA6hF9CUpaJ_RLMK8GpAu7WcjAZ2d1XWi7XJDitHK5gd6Ohw/viewform){target="_blank"}
+-   Jalur **SBMPTN KIP** silakan daftar [**di sini**](https://docs.google.com/forms/d/e/1FAIpQLScA6hF9CUpaJ_RLMK8GpAu7WcjAZ2d1XWi7XJDitHK5gd6Ohw/viewform){target="_blank"}
+-   Jalur **SMMPTN** silakan daftar [**di sini**](https://docs.google.com/forms/d/e/1FAIpQLSdNpjikwc5voegw8L7jI3M9ybrwRpeoZlw_syZXp1OhAHEHyg/viewform){target="_blank"}
+-   Jalur **UMM D3**, **Alih Jenjang**, dan **ADIK** silakan daftar [**di sini**](https://docs.google.com/forms/d/e/1FAIpQLSdJFwYSK9GGtDeIvDBWqo2E5j6wAfh_TVGmcQkyEiZQVrJwzg/viewform){target="_blank"}
+
+Jika ada yang ingin ditanyakan, silakan hubungi Subbagian Registrasi dan Statistik melalui email registrasi\@untirta.ac.id di hari dan jam kerja, Senin s/d Jumat pukul 08.00 - 16.00
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+Sys.setlocale("LC_TIME", "IND") 
+```
+
+-   Berikut adalah mahasiswa baru jalur **SMMPTN**, **UMM**, **Alih Jenjang**, dan **ADIK** yang sudah mengisi formulir pendaftaran KTM sampai dengan **`r format(Sys.time(), "%d %B %Y")`** pukul **`r format(Sys.time(), "%X")`** (**gunakan Search untuk pencarian cepat**)
+
+    ```{r message=FALSE, warning=FALSE, echo=FALSE}
+    # 
+    # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X")
+    library(googlesheets4)
+    gs4_deauth()
+
+    data <- NULL
+
+    # SMMPTN
+    smm <- "https://docs.google.com/spreadsheets/d/1NVirpoT-43bBo3Y3AavHyg7RUCLcOir-EKgZKELhnpk/edit?usp=sharing"
+
+    data1 <- data.frame(read_sheet(smm))
+    data1 <- data1[,c(1, 2, 4, 8)]
+    names(data1) <- c("waktu_daftar", "email", "nama", "jk")
+    data <- rbind(data, unique(data1))
+
+    # adik, umm, jaj
+    adik <- "https://docs.google.com/spreadsheets/d/1HbsxFg3KyUa1rKNaTitK1x1DejhY8H3OH1onZV9f_ZY/edit?usp=sharing"
+
+    data1 <- data.frame(read_sheet(adik))
+    data1 <- data1[,c(1, 2, 4, 8)]
+    names(data1) <- c("waktu_daftar", "email", "nama", "jk")
+    data <- rbind(data, unique(data1))
+
+    data$nama <- toupper(data$nama)
+
+    names(data) <- c("Waktu Pendaftaran", "Email", "Nama", "Jenis Kelamin")
+
+    DT::datatable(data, rownames = F)
+    ```
+
+-   Berikut adalah mahasiswa baru jalur **SBMPTN** yang sudah mengisi formulir pendaftaran KTM sampai dengan **`r format(Sys.time(), "%d %B %Y")`** pukul **`r format(Sys.time(), "%X")`** (**gunakan Search untuk pencarian cepat**)
+
+    ```{r message=FALSE, warning=FALSE, echo=FALSE}
+    # 
+    # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
+
+    data <- "https://docs.google.com/spreadsheets/d/1zAMdqmBBnUc3vkdOQCHPEG0_tOsyYkl78QgKXk4tCp0/edit?usp=sharing"
+
+    data <- data.frame(read_sheet(data))
+    data <- data[,c(1, 2, 4, 8)]
+    names(data) <- c("waktu_daftar", "email", "nama", "jk")
+
+    data$nama <- toupper(data$nama)
+
+    names(data) <- c("Waktu Pendaftaran", "Email", "Nama", "Jenis Kelamin")
+
+    DT::datatable(data, rownames = F)
+    ```
+
+    <br>
+
+-   Berikut adalah mahasiswa baru jalur **SNMPTN** yang mengisi formulir pendaftaran KTM (**gunakan Search untuk pencarian cepat**)
+
+    ```{r echo=FALSE, message=FALSE, warning=FALSE}
+    # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
+
+    data <- NULL
+
+    # SNM KIP
+    snm_kip <- "https://docs.google.com/spreadsheets/d/1JDcIpN7rleIKHTxT9kNtQ1W-P-i7pzbjLSSGOnOB_54/edit?usp=sharing"
+
+    data1 <- data.frame(read_sheet(snm_kip))
+    data1 <- data1[,c(1, 2, 4, 8)]
+    names(data1) <- c("waktu_daftar", "email", "nama", "jk")
+    data <- rbind(data, unique(data1))
+
+    # SNM UKT
+    snm_ukt <- "https://docs.google.com/spreadsheets/d/1hTbSLIYAhdWB-EWdH_mZSiMTKY8A-e4kzjX1YtBgsc0/edit?usp=sharing"
+
+    data1 <- data.frame(read_sheet(snm_ukt))
+    data1 <- data1[,c(1, 2, 4, 8)]
+    names(data1) <- c("waktu_daftar", "email", "nama", "jk")
+    data <- rbind(data, unique(data1))
+
+    # SNM SUSULAN
+    susu <- "https://docs.google.com/spreadsheets/d/1ERfZqezTU2RUnyK9XbwTfq2QDlCPyRefXPRv3qrHXig/edit?usp=sharing"
+
+    data1 <- data.frame(read_sheet(susu))
+    data1 <- data1[,c(1, 2, 3, 7)]
+    names(data1) <- c("waktu_daftar", "email", "nama", "jk")
+    data <- rbind(data, unique(data1))
+
+    data$nama <- toupper(data$nama)
+
+    names(data) <- c("Waktu Pendaftaran", "Email", "Nama", "Jenis Kelamin")
+
+    DT::datatable(data, rownames = F)
+    ```
+
+    ```{r eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
+    # Berikut adalah mahasiswa baru jalur SMMPTN yang sudah mengisi formulir pendaftaran KTM sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") (gunakan Search untuk pencarian cepat)
+    # sampai dengan r format(Sys.time(), "%d %B %Y") pukul r format(Sys.time(), "%X") 
+
+    library(googlesheets4)
+    gs4_deauth()
+
+    data <- "https://docs.google.com/spreadsheets/d/1JDcIpN7rleIKHTxT9kNtQ1W-P-i7pzbjLSSGOnOB_54/edit?usp=sharing"
+
+    data <- data.frame(read_sheet(data))
+    data <- data[,c(1, 2, 4, 9)]
+    names(data) <- c("waktu_daftar", "email", "nama", "jk")
+
+    data$nama <- toupper(data$nama)
+
+    names(data) <- c("Waktu Pendaftaran", "Email", "Nama", "Jenis Kelamin")
+
+    DT::datatable(data, rownames = F)
+    ```

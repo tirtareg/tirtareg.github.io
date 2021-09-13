@@ -1,0 +1,23 @@
+---
+title: Jadwal Ujian UMM D3 dan Alih Jenjang
+author: registrasi
+date: '2021-06-11'
+slug: []
+categories: []
+tags:
+  - umm 2021
+description: ''
+thumbnail: ''
+---
+
+Diinformasikan kepada pendaftar UMM D3 dan Alih Jenjang bahwa jadwal ujian lengkap, Hari, Tanggal, Waktu, dan Lokasi Ruangan akan diumumkan pada tanggal **06 Agustus 2021** pada halaman ini.
+
+Terima kasih
+
+```{r warning=FALSE, message=FALSE, echo=FALSE}
+library(readxl)
+data <- read_excel("G:/My Drive/#PMB/2021/04_D3 dan Alih Jenjang/21umm/jadwal umm 2021.xlsx")
+names(data) <- c("No Tes", "Nama", "Tanggal Ujian", "Jam", "Tempat Ujian", "Ruan Ujian")
+
+DT::datatable(data, rownames = F)
+```

@@ -1,0 +1,117 @@
+---
+title: Penyesuaian UKT di Masa Pandemi Covid-19
+author: registrasi
+date: '2021-02-18'
+slug: []
+categories: []
+tags:
+  - ukt
+  - covid-19
+description: ''
+thumbnail: ''
+---
+
+> Sebelum melakukan pendaftaran penyesuaian UKT, perhatikan hal-hal berikut:
+>
+> 1.  Gunakan browser Mozilla Firefox
+> 2.  Pastikan sudah login ke mail.google.com menggunakan akun email Untirta masing-masing pendaftar di Browser Mozilla Firefox
+> 3.  Pendaftar **WAJIB** menggunakan akun email Untirta masing-masing (**alamat email dan NIM harus sama**)
+> 4.  Jika lupa *password* email Untirta, silakan hubungi [helpdesk Spada](http://helpdesk.spada.untirta.ac.id/){target="_blank"}
+
+1.  **Penangguhan pembayaran UKT**
+
+    Kebijakan ini diperuntukan bagi mahasiswa yang **tidak mendapatkan Penyesuaian UKT** dan terkendala dengan pembayaran UKT sehingga memerlukan penangguhan pembayaran UKT. Bagi para pendaftar penangguhan pembayaran UKT diharapkan **memahami alur pengisian KRS** sehingga tidak terjadi masalah di kemudian hari. Alur pengisian KRS bagi mahasiswa yang melakukan penangguhan pembayaran UKT bisa dilihat [**di sini**](https://drive.google.com/file/d/1y9pSHwRBRkHsj_HRrLzvjg3xAsAVypVE/view?usp=sharing){target="_blank"} dan formulir KRS manual bisa diunduh [**di sini**](https://drive.google.com/file/d/1yAM0GfI8bXYS2bw_Q6sRvMypzDFzgkdP/view?usp=sharing){target="_blank"}.
+
+    Adapun berkas yang harus disiapkan dan diunggah adalah [**Surat Pernyataan Kesanggupan Membayar UKT**](https://drive.google.com/file/d/1wTfyJHu3QZsNu5QzvOjjo1oqr88CIkgJ/view?usp=sharing){target="_blank"}.
+
+    Pendaftaran penangguhan pembayaran UKT dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** pada **08 - 10 Februari 2021**.
+
+    ![](images/daftar.jpg){width="64" height="30"}
+
+    <br>
+
+    **Daftar mahasiswa yang melakukan penangguhan pembayaran UKT. Bagi yang namanya tercantum di bawah ini diharap segera mengisi KRS manual di Prodi masing-masing. Batas akhir KRS manual 16 Februari 2020.**
+
+    **JADWAL PEMBAYARAN UKT BAGI YANG MELAKUKAN PENANGGUHAN AKAN DIBUKA MULAI TANGGAL 01 - 18 APRIL 2021.**
+
+    <br>
+
+    ```{r, message=FALSE, warning=FALSE, echo=FALSE}
+    library(googlesheets4)
+    gs4_deauth()
+
+    data <- NULL
+    link <- "https://docs.google.com/spreadsheets/d/1-SXewLYNlV6U_FwIHsHqVs-0XBP9yiP4_Gf2P4IbN9s/edit?usp=sharing"
+    data <- data.frame(read_sheet(link))
+    data <- data[, c(2, 7, 11)]
+    data[, 3] <- format(data[, 3], "%d %B %Y")
+
+    names(data) <- c("Email", "Jalur Masuk", "Tanggal Bayar")
+    DT::datatable(data, rownames = F)
+    ```
+
+2.  **Penyesuaian UKT 50%**
+
+    Penyesuaian UKT sebesar 50% diberikan kepada mahasiswa dengan kriteria berikut:
+
+    -   Berada pada **semester 9 ke atas** (S1) atau **semester 7 ke atas** (D3)
+    -   Hanya akan mengambil Mata Kuliah **Tugas Akhir/Skripsi** pada semester genap Tahun Akademik 2020/2021
+
+    Berikut adalah berkas-berkas yang harus disiapkan:
+
+    -   Surat Pernyataan bermaterai yang menyatakan sudah menyelesaikan perkuliahan dan hanya akan mengambil Mata Kuliah Tugas Akhir/Skripsi di semester genap TA 2020/2021 dan diketahui oleh Dosen Wali dan Kepala Program Studi. Format Surat Pernyataan bisa diunduh bisa diunduh setelah anda masuk ke dalam formulir pendaftaran (***login*** **menggunakan email Untirta pendaftar**).
+    -   Transkrip nilai terbaru (sampai dengan semester ganjil TA 2020/2021)
+
+    Pendaftaran penyesuaian UKT 50% dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** sampai dengan **20 Januari 2021**.
+
+    ![](images/daftar.jpg){width="64" height="30"}
+
+3.  **Penyesuaian UKT Kelompok Yatim dan Yatim Piatu**
+
+    Penyesuaian UKT Kelompok Yatim dan Yatim Piatu adalah pengurangan UKT menjadi UKT kelompok 3 (tiga) yang diberikan kepada mahasiswa dengan golongan UKT minimal 4 di mana orang tua/wali mahasiswa meninggal dunia sehingga kesulitan membayar UKT.
+
+    Permohohan hanya berlaku satu semester dan dapat diperpanjang dengan mengunggah berkas berikut:
+
+    1.  KTP Mahasiswa
+    2.  Kartu Keluarga
+    3.  Akta Kematian
+    4.  Surat Keterangan belum menikah lagi dari Kelurahan/Desa
+    5.  Surat Pernyataan Keabsahan data. Format Surat Pernyataan bisa diunduh setelah anda masuk ke dalam formulir pendaftaran (***login*** **menggunakan email Untirta pendaftar**).
+
+    Pendaftaran penyesuaian UKT Kelompok Yatim dan Yatim Piatu dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** sampai dengan **20 Januari 2021**.
+
+    ![](images/daftar.jpg){width="64" height="30"}
+
+4.  **Penyesuaian UKT di masa Pandemi Covid-19**
+
+    Penyesuaian UKT di masa Pandemi Covid-19 adalah penyesuaian UKT yang diberikan kepada mahasiswa di mana Orang Tua / Wali yang terkena PHK, Pensiun, Sakit Permanen, dan Pendapatan Berkurang akibat Bencana Alam atau Covid-19. Penyesuaian ini paling banyak 2 tingkat dan minimal diajukan oleh **Mahasiswa dengan Kelompok UKT K3**.
+
+    Berikut adalah berkas-berkas yang harus diunggah.
+
+    a.  Surat Permohonan dari Orang Tua / Wali **ditulis tangan** dan ditanda tangani di atas materai (**format PDF**)
+
+    b.  KTP Orang Tua / Wali (**format image**)
+
+    c.  Persyaratan khusus dalam format PDF (**pilih salah satu**):
+
+        1.  Surat Kepala Desa sesuai dengan KTP Orang Tua / Wali yang menyatakan bahwa usaha Orang Tua mengalami penurunan pendapatan akibat bencana alam atau Covid-19 bagi pendaftar **kategori Orang Tua mengalami penurunan pendapatan akibat bencana alam atau Covid-19**
+        2.  Surat Keterangan Kepala Desa dan Perusahaan terkait yang menyatakan bahwa orang tua / wali mengalami pemutusan hubungan kerja (PHK) bagi pendaftar **kategori Orang Tua / Wali mengalami Pemutusan Hubungan Kerja (PHK)**
+        3.  Surat Keterangan Kepala Desa dan Perusahaan / Instansi terkait bahwa orang Tua / Wali telah mencapai Pensiun bagi pendaftar **kategori Orang Tua / Wali sudah Pensiun**
+        4.  Surat Keterangan dari Dokter Pemerintah (Puskesmas/Rumah Sakit Pemerintah) yang menyatakan bahwa orang tua / wali menderita Sakit Permanen sehingga tidak bisa melaksanakan aktivitas kerja bagi pendaftar **kategori Orang Tua / Wali menderita sakit permanen yang menyebabkan tidak bisa melaksanakan aktifitas bekerja**
+
+    Pendaftaran dapat dilakukan dengan mengisi formulir berikut **menggunakan akun email Untirta pendaftar** sampai dengan **25 Januari 2021**.
+
+    ![](images/daftar.jpg){width="64" height="30"}
+
+<br>
+
+**Hasil verifikasi penyesuaian UKT sedang Tahun Akademik 2020/2021 semester genap**
+
+```{r,warning=FALSE,message=FALSE,echo=FALSE}
+library(readxl)
+hasil <- read_excel("G:/My Drive/# REGISTRASI DAN STATISTIK/UKT/2021/Hasil Verifikasi Final.xlsx", sheet = "Hasil Akhir")
+hasil <- hasil[, c(2, 6, 5)]
+names(hasil) <- c("Email", "Kategori", "Hasil Verifikasi")
+
+DT::datatable(hasil, rownames = F)
+```
