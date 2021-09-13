@@ -1,90 +1,153 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo DPSG</title>
-    <link>https://example.com/tags/</link>
-    <description>Recent content in Tags on Hugo DPSG</description>
+    <title>Tags on Registrasi dan Statistik</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Registrasi dan Statistik</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Basic Elements</title>
-      <link>https://example.com/tags/basic-elements/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <title>bantuan ukt</title>
+      <link>/tags/bantuan-ukt/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/basic-elements/</guid>
+      <guid>/tags/bantuan-ukt/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CSS</title>
-      <link>https://example.com/tags/css/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <title>kalender akademik</title>
+      <link>/tags/kalender-akademik/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/css/</guid>
+      <guid>/tags/kalender-akademik/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>HTML</title>
-      <link>https://example.com/tags/html/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <title>penangguhan</title>
+      <link>/tags/penangguhan/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/html/</guid>
+      <guid>/tags/penangguhan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>development</title>
-      <link>https://example.com/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>ukt</title>
+      <link>/tags/ukt/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/development/</guid>
+      <guid>/tags/ukt/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>go</title>
-      <link>https://example.com/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>umm 2021</title>
+      <link>/tags/umm-2021/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/go/</guid>
+      <guid>/tags/umm-2021/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>golang</title>
-      <link>https://example.com/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>ktm</title>
+      <link>/tags/ktm/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/golang/</guid>
+      <guid>/tags/ktm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>https://example.com/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>ktm 2021</title>
+      <link>/tags/ktm-2021/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/hugo/</guid>
+      <guid>/tags/ktm-2021/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>templates</title>
-      <link>https://example.com/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>registrasi ulang</title>
+      <link>/tags/registrasi-ulang/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/templates/</guid>
+      <guid>/tags/registrasi-ulang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>themes</title>
-      <link>https://example.com/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>sbmptn</title>
+      <link>/tags/sbmptn/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/themes/</guid>
+      <guid>/tags/sbmptn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smmptn</title>
+      <link>/tags/smmptn/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/smmptn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>snmptn</title>
+      <link>/tags/snmptn/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/snmptn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>snmptn 2021</title>
+      <link>/tags/snmptn-2021/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/snmptn-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>umm</title>
+      <link>/tags/umm/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/umm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>registrasi</title>
+      <link>/tags/registrasi/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/registrasi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>covid-19</title>
+      <link>/tags/covid-19/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KIP-K</title>
+      <link>/tags/kip-k/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/kip-k/</guid>
       <description></description>
     </item>
     

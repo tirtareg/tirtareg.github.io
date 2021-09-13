@@ -1,81 +1,222 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Start on Hugo DPSG</title>
-    <link>https://example.com/</link>
-    <description>Recent content in Start on Hugo DPSG</description>
+    <title>Home on Registrasi dan Statistik</title>
+    <link>/</link>
+    <description>Recent content in Home on Registrasi dan Statistik</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Basic HTML Elements</title>
-      <link>https://example.com/post/basic-elements/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <title>Bantuan UKT Kemdikbudristek Tahun 2021</title>
+      <link>/post/2021-08-26-bantuan-ukt-kemdikbudristek-tahun-2021/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/basic-elements/</guid>
-      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
+      <guid>/post/2021-08-26-bantuan-ukt-kemdikbudristek-tahun-2021/</guid>
+      <description>Berdasarkan Pengumuman Nomor: B/1431/UN43/KM.01.00/2021 tanggal 26 Agustus 2021, mahasiswa Universitas Sultan Ageng Tirtayasa program D-3 dan S-1 dapat mengajukan permohonan bantuan pembayaran UKT kepada Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi melalui Rektor Universitas Sultan Ageng Tirtaysa dengan ketentuan berikut.
+A. PersyaratanPrioritas calon penerima bantuan UKT adalah:
+Mahasiswa yang orang tua/penanggung biaya kuliah mengalami kendala finansial karena terdampak pandemi Covid-19 dan mengalami kesulitan membayar UKT Semester Gasal Tahun Akademik 2021/2022.</description>
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://example.com/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Kalender Akademik 2021/2022</title>
+      <link>/post/2021-08-18-kalender-akademik-2021-2022/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>/post/2021-08-18-kalender-akademik-2021-2022/</guid>
+      <description>Peraturan Rektor Kalender Akademik Untirta Tahun Akademik 2021-2022</description>
     </item>
     
     <item>
-      <title>About Hugo</title>
-      <link>https://example.com/about/</link>
+      <title>Jadwal Ujian UMM D3 dan Alih Jenjang 2021</title>
+      <link>/post/2021-08-06-jadwal-ujian-umm-d3-dan-alih-jenjang-2021/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-08-06-jadwal-ujian-umm-d3-dan-alih-jenjang-2021/</guid>
+      <description>Diinformasikan kepada pendaftar UMM D3 dan S1 Alih Jenjang bahwa jadwal ujian lengkap, Hari, Tanggal, Waktu, Lokasi Ruangan, dan tata tertib dapat dilihat pada link berikut.
+  D3 Fakultas Ekonomi dan Bisnis
+  D3 Keperawatan
+Tes kesehatan untuk peserta Test Pagi (sesi ke-1) dilaksanakan pukul 13.00 sd selesai
+Tes kesehatan untuk peserta Test Siang (sesi ke-2) dilaksanakan pukul 09.00 sd selesai
+  S1 Alih Jenjang
+  Tata Tertib</description>
+    </item>
+    
+    <item>
+      <title>Penangguhan UKT Semester Ganjil 2021/2022</title>
+      <link>/post/2021-07-31-penangguhan-ukt-semester-ganjil-2021-2022/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-07-31-penangguhan-ukt-semester-ganjil-2021-2022/</guid>
+      <description>Universitas Sultan Ageng Tirtayasa kembali mengeluarkan kebijakan mengenai UKT untuk periode Semester Ganjil Tahun Akademik 2021/2022. Bagi Mahasiswa yang belum bisa membayar UKT sesuai jadwal yang telah ditentukan, Untirta meberikan kebijakan untuk Penangguhan Pembayaran UKT.
+Penangguhan ini diberikan kepada mahasiswa yang tidak mendapatkan Penyesuaian UKT.
+Sebelum melakukan pendaftaran penangguhan UKT, mahasiswa diharapkan mencermati dan memahami ketentuan-ketentuan berikut.
+  Pendaftaran melalui Googleform dengan menggunakan email domain UNTIRTA (nim@untirta.ac.id). Pastikan Laptop anda atau Handphone anda tidak sedang login email orang lain.</description>
+    </item>
+    
+    <item>
+      <title>Perpanjangan Penyesuaian UKT Tugas Akhir</title>
+      <link>/post/2021-06-28-perpanjangan-penyesuaian-ukt-tugas-akhir/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-06-28-perpanjangan-penyesuaian-ukt-tugas-akhir/</guid>
+      <description>Karena batas akhir input nilai adalah 02 Juli 2021, maka pendaftaran penyesuaian UKT bagi mahasiswa yang hanya mengambil Skripsi/Tugas Akhir di semester Ganjil 2021/2022 diperpanjang sampai dengan 03 Juli 2021. Adapun kriteria dan persyaratannya masih sama seperti pada peride pendaftaran sebelumnya.
+Penyesuaian UKT sebesar 50% diberikan kepada mahasiswa dengan kriteria berikut:
+Berada pada semester 9 ke atas (S1) atau semester 7 ke atas (D3)Hanya akan mengambil Mata Kuliah Tugas Akhir/Skripsi pada semester ganjil Tahun Akademik 2021/2022Tidak berlaku bagi kelompok UKT K1 dan K2Berikut adalah berkas-berkas yang harus disiapkan:</description>
+    </item>
+    
+    <item>
+      <title>Penyesuaian UKT Ganjil 2021/2022</title>
+      <link>/post/2021-06-17-penyesuaian-ukt-ganjil-2021-2022/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-06-17-penyesuaian-ukt-ganjil-2021-2022/</guid>
+      <description>Universitas Sultan Ageng Tirtayasan kembali mengeluarkan kebijakan penyesuaian UKT untuk periode Semester Ganjil Tahun Akademik 2021/2022. Sebelum melakukan pendaftaran penyesuaian UKT, mahasiswa diharapkan mencermati dan memahami ketentuan-ketentuan berikut.
+Penyesuaian UKT hanya berlaku bagi mahasiswa Angkatan 2020 dan sebelumnyaMahasiswa yang sudah mendapatkan penyesuaian UKT kategori Orang Tua/Wali Pensiun dan kategori Orang Tua / Wali menderita sakit permanen yang menyebabkan tidak bisa melaksanakan aktifitas bekerja serta penyesuaian UKT 50% di semester-semester sebelumnya tidak perlu mendaftar lagi.</description>
+    </item>
+    
+    <item>
+      <title>Daftar Ulang Mahasiswa Baru Peserta KIP-Kuliah Jalur SBMPTN 2021</title>
+      <link>/post/2021-06-14-daftar-ulang-mahasiswa-baru-peserta-kip-kuliah-jalur-sbmptn-2021/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-06-14-daftar-ulang-mahasiswa-baru-peserta-kip-kuliah-jalur-sbmptn-2021/</guid>
+      <description>(Diumumkan oleh Kemahasiswaan – BAKP)Wajib melakukan daftar ulang Calon Mahasiswa Baru jalur SBMPTN, Tgl 15 s.d. 25 Juni
+2021 pada Laman : http://admisi.untirta.ac.id
+Lengkapi data pada laman https://kip-kuliah.kemdikbud.go.id/
+Lengkapi dan perbaharui semua data yang dicantumkan di laman tersebut. Contoh: alamat, nomor HP, prestasi, upload foto keluarga, foto rumah (tampak ruang keluarga)
+Tanggal 15 s.d. 24 Juni 2021 wajib melakukan daftar ulang Calon Mahasiswa Baru KIP Kuliah pada link http://bit.</description>
+    </item>
+    
+    <item>
+      <title>Jadwal Ujian UMM D3 dan Alih Jenjang</title>
+      <link>/post/2021-06-11-jadwal-ujian-umm-d3-dan-alih-jenjang/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-06-11-jadwal-ujian-umm-d3-dan-alih-jenjang/</guid>
+      <description>Diinformasikan kepada pendaftar UMM D3 dan Alih Jenjang bahwa jadwal ujian lengkap, Hari, Tanggal, Waktu, dan Lokasi Ruangan akan diumumkan pada tanggal 06 Agustus 2021 pada halaman ini.
+Terima kasih
+{&#34;x&#34;:{&#34;filter&#34;:&#34;none&#34;,&#34;data&#34;:[[12345],[&#34;Legion Five&#34;],[&#34;belum ada&#34;],[&#34;belum ada&#34;],[&#34;belum ada&#34;],[&#34;belum ada&#34;]],&#34;container&#34;:&#34;\n \n \n No Tes\n Nama\n Tanggal Ujian\n Jam\n Tempat Ujian\n Ruan Ujian\n \n \n&#34;,&#34;options&#34;:{&#34;columnDefs&#34;:[{&#34;className&#34;:&#34;dt-right&#34;,&#34;targets&#34;:0}],&#34;order&#34;:[],&#34;autoWidth&#34;:false,&#34;orderClasses&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
+    </item>
+    
+    <item>
+      <title>Panduan PMB Jalur UMM D3 dan S1 Alih Jenjang</title>
+      <link>/post/2021-02-23-pmb-umm/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-02-23-pmb-umm/</guid>
+      <description>Persyaratan DIPLOMA KEPERAWATAN
+  Lulusan SMA/MA/SMK Kesehatan/SMK Farmasi/SMK Analis/SMK Kimia, berijazah, 5 (lima) tahun terakhir 2017, 2018, 2019, 2020 atau 2021.
+  Bagi lulusan tahun 2021, telah memiliki Surat Keterangan Lulus yang memuat sekurang-kurangnya informasi jati diri, pas foto yang bersangkutan, serta dibubuhi cap yang sah.
+  Peserta seleksi dalam kondisi sehat jasmani dan rohani.
+  Tinggi badan;
+ Perempuan minimal 150 cm Laki-laki minimal 155 cm    Tidak buta warna, parsial maupun total.</description>
+    </item>
+    
+    <item>
+      <title>Hasil Registrasi Ulang SNMPTN 2021</title>
+      <link>/post/2021-04-07-hasil-registrasi-ulang-snmptn-2021/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-04-07-hasil-registrasi-ulang-snmptn-2021/</guid>
+      <description>Proses registrasi ulang online calon mahasiswa baru Untirta jalur SNMPTN tahun 2021 resmi ditutup pada tanggal 06 April 2021 pukul 23:59. Sebanyak 922 calon mahasiswa baru mencatatkan diri sebagai calon mahasiswa yang melakukan registrasi ulang online. Sedangkan 32 calon mahasiswa baru yang berasal dari 28 sekolah telah melewatkan kesempatan emas untuk bergabung bersama Untirta dengan tidak melakukan registrasi ulang online.
+Dibanding dengan SNMPTN tahun lalu, persentase calon mahasiswa baru yang melakukan registrasi ulang online mengalami peningkatan dari 95% di tahun 2020 menjadi 97% di tahun 2021.</description>
+    </item>
+    
+    <item>
+      <title>KTM Angkatan 2021</title>
+      <link>/post/2021-04-12-ktm-angkatan-2021/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-04-12-ktm-angkatan-2021/</guid>
+      <description>Kami mengucapkan selamat datang kepada mahasiswa baru Universitas Sultan Ageng Tirtayasa tahun 2021. Untuk melengkapi identitas saudara sebagai mahasiswa, kami membuka pendaftaran Kartu Tanda Mahasiswa (KTM) yang diterbitkan oleh Bank Negara Indonesia (BNI) dan berfungsi sebagai kartu ATM. Kami telah menyediakan formulir pendaftaran KTM sesuai dengan jalur masuk saudara.
+Sebelum melakukan pengisian formulir, pastikan saudara telah mempersiapkan foto dengan ketentuan sebagai berikut.
+Laki-laki (jas hitam, baju putih, dasi hitam, background merah, ukuran (4×6))</description>
+    </item>
+    
+    <item>
+      <title>Pembayaran UKT Penangguhan</title>
+      <link>/post/2021-03-05-pembayaran-ukt-penangguhan/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-03-05-pembayaran-ukt-penangguhan/</guid>
+      <description>Diinformasikan kepada semua mahasiswa Universitas Sultan Ageng Tirtayasa yang melalukan penangguhan pembayaran UKT agar melakukan pembayaran UKT pada tanggal 01-18 April 2021. Setelah melakukan pembayaran diharap segera melakukan pengisian KRS online.
+Informasi lebih lanjut mengenai pembayaran UKT penangguhan bisa ditanyakan ke hotline ukt.</description>
+    </item>
+    
+    <item>
+      <title>Panduan Registrasi Ulang SNMPTN, SBMPTN, dan SMMPTN</title>
+      <link>/post/2021-02-23-panduan-registrasi-snmptn-sbmptn-dan-smmptn/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-02-23-panduan-registrasi-snmptn-sbmptn-dan-smmptn/</guid>
+      <description>Calon Mahasiswa Baru yang sudah dinyatakan Lulus lewat jalur Seleksi Nasional Masuk Perguruan Tinggi Negeri (SNMPTN), Seleksi Bersama Masuk Perguruan Tinggi (SBMPTN), Seleksi Mandiri Masuk Perguruan Tinggi Negeri Barat (SMMPTN), yang ditetapkan dengan SK Rektor Universitas Sultan Ageng Tirtayasa agar mempersiapkan dan wajib melakukan kegiatan sebagai berikut:
+Jadwal registrasi ulang*
+NOSELEKSIREGISTRASI ULANGPEMBAYARAN UKT1.SNMPTN23 Maret - 06 April 202112 - 23 April 20212.</description>
+    </item>
+    
+    <item>
+      <title>Download</title>
+      <link>/download/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/download/</guid>
+      <description>2021    No Tahun Keterangan     1 2021 SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU   2 2021 SK HASIL SNMPTN   3 2021 SK PENETAPAN NIM SNMPTN   4 2021 SK HASIL SBMPTN   5 2021 SK PENETAPAN NIM SBMPTN   6 2021 SK HASIL SMMPTN   7 2021 SK PENETAPAN NIM SMMPTN   8 2021 SK HASIL D3 ALIH JENJANG   9 2021 SK PENETAPAN NIM D3 ALIH JENJANG   10 2021 SK PENETAPAN NIM PASCASARJANA    2020    No Tahun Keterangan     1 2020 SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU   2 2020 SK HASIL SNMPTN   3 2020 SK PENETAPAN NIM SNMPTN   4 2020 SK HASIL SBMPTN   5 2020 SK PENETAPAN NIM SBMPTN   6 2020 SK HASIL SMMPTN   7 2020 SK PENETAPAN NIM SMMPTN   8 2020 SK HASIL UMM D3 ALIH JENJANG   9 2020 SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1   10 2020 SK PENETAPAN NIM ADIK    2019    No Tahun Keterangan     1 2019 SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU   2 2019 SK PENETAPAN NIM SNMPTN   3 2019 SK PENETAPAN NIM SBMPTN   4 2019 SK PENETAPAN NIM SMMPTN   5 2019 SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1   6 2019 SK PENETAPAN NIM ADIK    2018    No Tahun Keterangan     1 2018 SK DAYA TAMPUNG PENERIMAAN MAHASISWA BARU   2 2018 SK PENETAPAN NIM SNMPTN   3 2019 SK PENETAPAN NIM SBMPTN   4 2018 SK PENETAPAN NIM SMMPTN   5 2018 SK PENETAPAN NIM UMM D3 DAN ALIH JENJANG S1   6 2018 SK PENETAPAN NIM ADIK    </description>
+    </item>
+    
+    <item>
+      <title>Report</title>
+      <link>/report/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/report/</guid>
+      <description>Laporan Semester Laporan ini rutin dibuat setiap semester oleh Subbagian Registrasi dan Statistik. Laporan ini terdiri atas 7 bagian, yaitu:
+ Mahasiswa. Bagian pertama ini berisi rekapitulasi data-data tentang mahasiswa baru di awal tahun akademik, mahasiswa aktif dan tidak aktif di setiap semester. Daya Tampung. Bagian kedua berisi daya tampung jenjang Diploma, Sarjana, dan Pascasarjana dalam dua tahun terakhir. Dosen. Bagian ini berisi data-data dan rekapitulasi dosen PNS dan dosen non PNS yang aktif.</description>
+    </item>
+    
+    <item>
+      <title>KTM Angkatan 2020 (bagian 1)</title>
+      <link>/post/2021-02-18-ktm-angkatan-2020-bagian-1/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-02-18-ktm-angkatan-2020-bagian-1/</guid>
+      <description>Diinformasikan kepada mahasiswa Angkatan 2020 bahwa sebagian KTM sudah jadi. Bagi yang KTM-nya sudah jadi akan diinformasikan melalui email Untirta masing-masing dan namanya ada di tabel berikut. Mahasiswa Untirta Wajib memiliki KTM untuk mempermudah Pelayanan Administrasi. KTM bisa diambil kapan saja di jam kerja kantor BNI Untirta dengan mematuhi protokol kesehatan.
+Berikut adalah persyaratan untuk mengambil KTM.
+e-KTPKRS semester genapSetoran awal tabungan minimal sebesar Rp115.</description>
+    </item>
+    
+    <item>
+      <title>Penyesuaian UKT di Masa Pandemi Covid-19</title>
+      <link>/post/2021-02-18-penyesuaian-ukt-di-masa-pandemi-covid-19/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-02-18-penyesuaian-ukt-di-masa-pandemi-covid-19/</guid>
+      <description>Sebelum melakukan pendaftaran penyesuaian UKT, perhatikan hal-hal berikut:
+Gunakan browser Mozilla FirefoxPastikan sudah login ke mail.google.com menggunakan akun email Untirta masing-masing pendaftar di Browser Mozilla FirefoxPendaftar WAJIB menggunakan akun email Untirta masing-masing (alamat email dan NIM harus sama)Jika lupa password email Untirta, silakan hubungi helpdesk SpadaPenangguhan pembayaran UKT
+Kebijakan ini diperuntukan bagi mahasiswa yang tidak mendapatkan Penyesuaian UKT dan terkendala dengan pembayaran UKT sehingga memerlukan penangguhan pembayaran UKT.</description>
+    </item>
+    
+    <item>
+      <title>Daftar Ulang Mahasiswa Baru Peserta KIP-Kuliah Jalur SNMPTN 2021</title>
+      <link>/post/2021-02-01-daftar-ulang-mahasiswa-baru-peserta-kip-kuliah-jalur-snmptn-2021/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-02-01-daftar-ulang-mahasiswa-baru-peserta-kip-kuliah-jalur-snmptn-2021/</guid>
+      <description>(Diumumkan oleh Kemahasiswaan – BAKP)Wajib melakukan daftar ulang Calon Mahasiswa Baru jalur SNMPTN, Tgl 23 Maret s.d. 06 April
+2021 pada Laman : http://admisi.untirta.ac.id
+Lengkapi data pada laman https://kip-kuliah.kemdikbud.go.id/
+Lengkapi dan perbaharui semua data yang dicantumkan di laman tersebut. Contoh: alamat, nomor HP, prestasi, upload foto keluarga, foto rumah (tampak ruang keluarga)
+Tanggal 23 Maret s.d. 06 April 2021 wajib melakukan daftar ulang Calon Mahasiswa Baru KIP Kuliah pada link http://bit.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://example.com/post/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/goisforlovers/</guid>
-      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for
-its template engine. It is an extremely lightweight engine that provides a very
-small amount of logic. In our experience that it is just the right amount of
-logic to be able to create a good static website. If you have used other
-template systems from different languages or frameworks you will find a lot of
-similarities in Go templates.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://example.com/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://example.com/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>/about/</guid>
+      <description>Website ini secara resmi dikelola oleh Subbagian Registrasi dan Statistik Universitas Sultan Ageng Tirtayasa. Subbagian Registrasi dan Statistik adalah salah satu subbagian di bawah Bagian Akademik dan Kemahasiswaan di Biro Akademik, Kemahasiswaan, dan Perencanaan (BAKP) Universitas Sultan Ageng Tirtayasa. Berikut adalah rincian tugas Subbagian Registrasi dan Statistik:
+ melakukan penyusunan program kerja Subbagian; melakukan penyusunan pedoman pelaksanaan penerimaan dan registrasi mahasiswa; melakukan penerimaan mahasiswa baru; melakukan urusan registrasi mahasiswa; melakukan penyiapan kartu mahasiswa, kartu rencana studi, kartu hasil studi dan pemberian nomor induk mahasiswa; melakukan urusan alih program studi; melakukan urusan cuti akademik mahasiswa; melakukan pemrosesan pindah mahasiswa dan/atau pengunduran diri mahasiswa; melakukan penyusunan statistik mahasiswa; melakukan penyimpanan dan pemeliharaan dokumen Subbagian; dan melakukan penyusunan laporan Subbagian.</description>
     </item>
     
   </channel>

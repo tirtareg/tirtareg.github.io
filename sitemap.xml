@@ -1,107 +1,202 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-      <loc>https://example.com/tags/basic-elements/</loc>
-      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+      <loc>/tags/bantuan-ukt/</loc>
+      <lastmod>2021-08-26T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/post/basic-elements/</loc>
-      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+      <loc>/post/2021-08-26-bantuan-ukt-kemdikbudristek-tahun-2021/</loc>
+      <lastmod>2021-08-26T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/categories/</loc>
-      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+      <loc>/</loc>
+      <lastmod>2021-08-26T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/tags/css/</loc>
-      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+      <loc>/post/</loc>
+      <lastmod>2021-08-26T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/categories/development/</loc>
-      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+      <loc>/tags/</loc>
+      <lastmod>2021-08-26T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/tags/html/</loc>
-      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+      <loc>/tags/kalender-akademik/</loc>
+      <lastmod>2021-08-18T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/post/</loc>
-      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+      <loc>/post/2021-08-18-kalender-akademik-2021-2022/</loc>
+      <lastmod>2021-08-18T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/</loc>
-      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+      <loc>/post/2021-08-06-jadwal-ujian-umm-d3-dan-alih-jenjang-2021/</loc>
+      <lastmod>2021-08-06T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/tags/</loc>
-      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+      <loc>/tags/penangguhan/</loc>
+      <lastmod>2021-07-31T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/post/creating-a-new-theme/</loc>
-      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+      <loc>/post/2021-07-31-penangguhan-ukt-semester-ganjil-2021-2022/</loc>
+      <lastmod>2021-07-31T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/about/</loc>
+      <loc>/tags/ukt/</loc>
+      <lastmod>2021-07-31T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/categories/</loc>
+      <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2021-06-28-perpanjangan-penyesuaian-ukt-tugas-akhir/</loc>
+      <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/categories/ukt/</loc>
+      <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2021-06-17-penyesuaian-ukt-ganjil-2021-2022/</loc>
+      <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2021-06-14-daftar-ulang-mahasiswa-baru-peserta-kip-kuliah-jalur-sbmptn-2021/</loc>
+      <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2021-06-11-jadwal-ujian-umm-d3-dan-alih-jenjang/</loc>
+      <lastmod>2021-06-11T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2021-02-23-pmb-umm/</loc>
+      <lastmod>2021-06-11T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/umm-2021/</loc>
+      <lastmod>2021-06-11T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2021-04-07-hasil-registrasi-ulang-snmptn-2021/</loc>
+      <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/ktm/</loc>
+      <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/ktm-2021/</loc>
+      <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2021-04-12-ktm-angkatan-2021/</loc>
+      <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/registrasi-ulang/</loc>
+      <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/sbmptn/</loc>
+      <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/smmptn/</loc>
+      <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/snmptn/</loc>
+      <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/snmptn-2021/</loc>
+      <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/umm/</loc>
+      <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2021-03-05-pembayaran-ukt-penangguhan/</loc>
+      <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2021-02-23-panduan-registrasi-snmptn-sbmptn-dan-smmptn/</loc>
+      <lastmod>2021-02-23T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/registrasi/</loc>
+      <lastmod>2021-02-23T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/download/</loc>
+      <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/report/</loc>
+      <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/covid-19/</loc>
+      <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2021-02-18-ktm-angkatan-2020-bagian-1/</loc>
+      <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2021-02-18-penyesuaian-ukt-di-masa-pandemi-covid-19/</loc>
+      <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2021-02-01-daftar-ulang-mahasiswa-baru-peserta-kip-kuliah-jalur-snmptn-2021/</loc>
+      <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/kip-k/</loc>
+      <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/about/</loc>
       <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://example.com/post/goisforlovers/</loc>
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://example.com/tags/development/</loc>
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://example.com/post/hugoisforlovers/</loc>
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://example.com/tags/go/</loc>
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://example.com/tags/golang/</loc>
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://example.com/categories/golang/</loc>
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://example.com/tags/hugo/</loc>
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://example.com/tags/templates/</loc>
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://example.com/tags/themes/</loc>
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://example.com/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     </url>
     </urlset>
