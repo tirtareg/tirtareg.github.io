@@ -10,6 +10,6 @@ description: ''
 thumbnail: ''
 ---
 
-Peraturan Rektor Kalender Akademik Untirta Tahun Akademik 2021-2022
+Peraturan Rektor tentang Kalender Akademik Untirta Tahun Akademik 2021-2022
 
 ![](images/Peraturan-Rektor-Kalender-Akademik-Untirta-Tahun-Akademik-2021-2022.pdf){width=100% height=600}
