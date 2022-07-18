@@ -1,0 +1,14 @@
+---
+title: Buku Pedoman Akademik 2021
+author: ''
+date: '2021-12-23'
+slug: []
+categories: []
+tags: []
+description: ''
+thumbnail: ''
+---
+
+Buku Pedoman Akademik Untirta Tahun Akademik 2021
+
+![](images/PEDOMAN AKADEMIK 2021 UNTIRTA FIX UNGGAH.pdf){width=100% height=600}

@@ -1,0 +1,178 @@
+---
+title: Panduan Registrasi Ulang SNMPTN, SBMPTN, dan SMMPTN 2022
+author: registrasi
+date: '2022-03-10'
+slug: []
+categories: []
+tags:
+  - snmptn
+  - sbmptn
+  - registrasi
+description: ''
+thumbnail: ''
+---
+
+Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nasional Masuk Perguruan Tinggi Negeri **(SNMPTN),** Seleksi Bersama Masuk Perguruan Tinggi (**SBMPTN**), Seleksi Mandiri Masuk Perguruan Tinggi Negeri Barat (**SMMPTN**), yang ditetapkan dengan SK Rektor Universitas Sultan Ageng Tirtayasa agar **mempersiapkan dan wajib melakukan kegiatan sebagai berikut**:
+
+1.  Jadwal registrasi ulang\*
+
+    | NO  | SELEKSI | REGISTRASI ULANG         | PEMBAYARAN UKT       |
+    |:----|:--------|:-------------------------|:---------------------|
+    | 1\. | SNMPTN  | 29 Maret - 08 April 2022 | 12 - 23 April 2022   |
+    | 2\. | SBMPTN  | 23 - 30 Juni 2022        | 01 - 08 Juli 2022    |
+    | 3\. | SMMPTN  | 18 - 27 Juli 2022        | 01 - 08 Agustus 2022 |
+
+    ***\*) Jika ada perubahan jadwal akan kami informasikan melalui web / email.***
+
+2.  Diagram alur proses registrasi ulang secara *online.*
+
+    ![](images/Alur%20Registrasi_new.jpg)
+
+3.  Penjelasan registrasi ulang secara *online* sesuai dengan jadwal dan diagram alur di atas adalah sebagai berikut.
+
+    A.  **Mempersiapkan dokumen** yang harus diunggah (*upload*) dalam bentuk **pdf** atau **jpg** (**ukuran file tidak melebihi 250 KB**).
+
+        > [Dokumen-dokumen yang harus disiapkan]{.ul} :
+
+        1.  [**Pakta Integritas Uang Kuliah Tunggal**](https://drive.google.com/file/d/1eFAlVSPMtTBDPZJXrbRC6ETnY1eU--F7/view?usp=sharing){target="_blank"} (*download*, cetak, isi, *scan*).
+
+        2.  [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1eDmL9tXhdXjfNSVceYwxh9a8gwuUcwYD/view?usp=sharing){target="_blank"} (*download*, cetak, isi, *scan*).
+
+        3.  [**Surat Keterangan Data Keluarga**](https://drive.google.com/file/d/1hEugzLMDnwLt2nkqwGfRx-o1AnVFxyvk/view?usp=sharing) (*download*, cetak, isi, *scan*).
+
+        4.  Ijazah bagi lulusan 3 tahun terakhir : 2020, 2021, dan 2022 / Surat Keterangan Lulus (SKL) bagi lulusan tahun 2022 yang belum memperoleh Ijazah.
+
+        5.  Kartu Peserta Tes.
+
+        6.  Akta Kelahiran.
+
+        7.  Kartu Keluarga.
+
+        8.  Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar*.
+
+            Bagi pelanggan listrik 450VA yang digratiskan dan tidak memiliki bukti pembayaran bisa membuatnya di halaman [**\[https://stimulus.pln.co.id/\](https://stimulus.pln.co.id/)**](https://stimulus.pln.co.id/){.uri target="_blank"} seperti pada gambar berikut.
+
+            ![](pln.PNG)
+
+        9.  Bukti SPT Pajak Penghasilan Tahunan bagi memiliki.
+
+        10. Pilih salah satu yang paling sesuai.
+
+            a.  SPPT Pajak Bumi dan Bangunan (PBB) tiga tahun terakhir (pilih salah satu)
+            b.  [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://drive.google.com/file/d/1eOsQ6Hk0Zk1y20Mxsy5ZP_0RVV5Am2N-/view?usp=sharing){target="_blank"} bagi yang tidak punya SPPT (*download*, cetak, isi, *scan*)
+            c.  Bukti pembayaran sewa rumah bagi yang mengontrak/sewa ditambah [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://drive.google.com/file/d/1eO1EXEMdsA3sfW8XbeO8NxYMLZ1N9CQA/view?usp=sharing){target="_blank"}
+
+        11. Surat Tes Bebas Narkoba terbaru dari Laboratorium (*scan* dan *upload*)
+
+        12. Surat Keterangan Kesehatan dari Rumah Sakit/Klinik/Puskesmas (*scan* dan *upload*)
+
+            > **Surat Sehat, Buta Warna dan Narkoba harus yang terbaru atau pemeriksaan mulai tanggal 29 Maret - 08 April 2022**
+
+        13. Surat Pemeriksaan Buta Warna dari Rumah Sakit/Klinik/Puskesmas untuk Program Studi berikut (*scan* dan *upload*) :
+
+            | No.  | Program Studi                             | Keterangan                                |
+            |------|-------------------------------------------|-------------------------------------------|
+            | 1\.  | Pendidikan Biologi                        | Tidak Boleh Buta Warna                    |
+            | 2\.  | Pendidikan Guru Sekolah Dasar             | Tidak Boleh Buta Warna                    |
+            | 3\.  | Pendidikan Guru Pendidikan Anak Usia Dini | Tidak Boleh Buta Warna                    |
+            | 4\.  | Pendidikan Fisika                         | Tidak Boleh Buta Warna                    |
+            | 5\.  | Pendidikan IPA                            | Tidak Boleh Buta Warna                    |
+            | 6\.  | Pendidikan Kimia                          | Tidak Boleh Buta Warna                    |
+            | 7\.  | Pendidikan Vokasional Teknik Mesin        | Tidak Boleh Buta Warna                    |
+            | 8\.  | Pendidikan Vokasional Teknik Elektro      | Tidak Boleh Buta Warna                    |
+            | 9\.  | Bimbingan dan Konseling                   | Tidak Boleh Buta Warna                    |
+            | 10\. | Pendidikan Pancasila dan Kewarganegaraan  | Tidak Boleh Buta Warna                    |
+            | 11\. | Pendidikan Sejarah                        | Tidak Boleh Buta Warna                    |
+            | 12\. | Pendidikan Seni Pertunjukan               | Tidak Boleh Buta Warna                    |
+            | 13\. | Teknik Mesin                              | Tidak Boleh Buta Warna                    |
+            | 14\. | Teknik Elektro                            | Tidak Boleh Buta Warna                    |
+            | 15\. | Teknik Industri                           | Buta Warna Sebagian / Partial masih boleh |
+            | 16\. | Teknik Metalurgi                          | Tidak Boleh Buta Warna                    |
+            | 17\. | Teknik Kimia                              | Tidak Boleh Buta Warna                    |
+            | 18\. | Teknik Sipil                              | Tidak Boleh Buta Warna                    |
+            | 19\. | Informatika                               | Tidak Boleh Buta Warna                    |
+            | 20\. | Kedokteran                                | Tidak Boleh Buta Warna                    |
+            | 21\. | Gizi                                      | Tidak Boleh Buta Warna                    |
+            | 22\. | Ilmu Keolahragaan                         | Tidak Boleh Buta Warna                    |
+            | 23\. | Keperawatan (D3 & S1)                     | Tidak Boleh Buta Warna                    |
+
+        <!-- -->
+
+        12. Bukti Penghasilan Ayah atau diisi dengan penghasilan Wali yang membiayai Kuliah dengan ketentuan sebagai berikut.
+
+            -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta**: Slip Gaji / Bukti Penghasilan (maksimal dua bulan terakhir),
+
+            -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Pekerjaan yang tidak mempunyai Slip Gaji/Tidak Mempunyai Pekerjaan Tetap** : Surat Keterangan Penghasilan dari Kelurahan dengan mencantumkan NAMA PEKERJAAN dan NOMINAL PENGHASILANNYA
+
+            -   **Pensiunan PNS** : Surat Pensiun / *print out* Buku Rekening Pensiun (max dua bulan terakhir).
+
+            -   **Pensiunan Swasta :** Surat Keterangan Pensiun dari Kantor.
+
+                > -   **Jika Ibu hanya Ibu Rumah Tangga lampirkan Surat Keterangan dari Kelurahan.**
+                >
+                > -   **Jika Ayah meninggal isi kolom penghasilan Nol. Dokumen yang diupload Surat Kematian dari Kelurahan.**
+                >
+                > -   **Jika Ayah dan Ibu tidak punya penghasilan isi kolom penghasilan dengan Surat Keterangan penanggung jawab biaya.**
+                >
+                > -   ***Kolom Penghasilan Ayah dan Ibu tidak boleh Nol dua-duanya.***
+
+        13. Foto diri berukuran 4×6 dengan format JPG sesuai dengan ketentuan berikut.
+
+            -   Laki-laki: jas hitam, baju putih, dasi hitam, *background* merah,
+            -   Perempuan: jas hitam/blazer, baju putih, dasi hitam, *background* merah,
+            -   Perempuan berjilbab: jilbab warna putih, *background* merah, jas hitam/blazer tanpa dasi.
+
+        14. Berkas dan registrasi tambahan bagi pendaftar KIP-Kuliah bisa diakses [**di sini**](/post/2021-06-14-daftar-ulang-mahasiswa-baru-peserta-kip-kuliah-jalur-sbmptn-2021/){target="_blank"}.
+
+        > Isilah dengan **BENAR**, **AKURAT**, dan **JUJUR** semua data diri anda. Kesalahan dalam mengisi data dan memahami panduan registrasi menjadi tanggung jawab calon mahasiswa baru.
+        >
+        > **Pertanyaan / Isian yang bertanda bintang (\*) wajib di isi**, sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di isi jika anda mempunyai datanya atau boleh dikosongkan.
+
+        <br><br>
+
+    B.  **Menunggu Username dan Password** untuk login ke laman <https://admisi.untirta.ac.id>. yang akan dikirim oleh Panitia Registrasi ke email calon mahasiswa baru.
+
+        > **Cek juga folder SPAM di email anda**, karena mungkin email dari kami masuk ke folder SPAM anda. Atau **search** email dengan judul **"Konfirmasi Pendaftaran"**.
+
+    C.  **Registrasi Ulang online** melakukan pengisian data diri dan mengunggah dokumen-dokumen yang diminta secara online di laman <https://admisi.untirta.ac.id>.
+
+    D.  **Menerima nominal UKT** yang bisa dilihat di [\<https://admisi.untirta.ac.id>](https://admisi.untirta.ac.id){.uri} menggunakan akun *username* dan *password* masing-masing sesuai jadwal pembayaran.
+
+    E.  **Melakukan Pembayaran** Uang Kuliah Tunggal (UKT) di Bank BNI seluruh Cabang Indonesia melalui *Teller* atau ATM. Tata cara pembayaran UKT bisa diakses [**di sini**](https://drive.google.com/file/d/1IIaFh62Irl6cK4EpdaTqcwOk3OMfmH8t/view?usp=sharing){target="_blank"}.
+
+        dengan ketentuan sebagai berikut.
+
+        -   Melakukan pembayaran Uang Kuliah Tunggal (UKT) dengan menyebut No Peserta Test.
+        -   Menerima bukti pembayaran dari Bank BNI (Teller atau ATM).
+        -   Khusus untuk Program Studi Kedokteran, UKT sebesar Rp15.000.000,00 s.d. Rp22.000.000,00 (UKT Kelompok III s.d. VIII)
+
+    F.  **Menerima Nomor Induk Mahasiswa (NIM)** dan *Password* SIAKAD akan dikirim melalui email masing-masing setelah Pembayaran terkonfirmasi Lunas.
+
+        > NIM dan Password digunakan untuk melakukan proses kontrak matakuliah di laman <https://siakad.untirta.ac.id/portal>
+
+        -   **Pendaftar Non KIP-K**: setelah melakukan pembayaran UKT
+        -   **Pendaftar KIP-K**: setelah dinyatakan sebagai penerima KIP-K
+
+    G.  **Selesai,** Mahasiswa Baru selanjutnya menghubungi Fakultas dan Program Studi masing masing untuk **Kegiatan Belajar Mengajar (KBM)**
+
+4.  **Lain-lain**:
+
+    A.  Setiap calon mahasiswa yang **tidak dapat memenuhi ketentuan pengumuman ini dinyatakan mengundurkan diri** sebagai calon mahasiswa Universitas Sultan Ageng Tirtayasa.
+
+    B.  Jika ada pengumuman atau perubahan jadwal akan diberitahukan kemudian melalui
+
+        1.  <https://admisi.untirta.ac.id>,
+
+        2.  <https://untirta.ac.id>,
+
+        3.  <https://registrasi.untirta.ac.id>
+
+        4.  email anda masing-masing (**pastikan email anda aktif**).
+
+    C.  Hal yang belum jelas bisa ditanyakan melalui email [**registrasi\@untirta.ac.id**](mailto:registrasi@untirta.ac.id) atau [**Hotline Registrasi : 0813-1173-4542**](http://wa.me/6281311734542)
+
+> Jam Kantor Senin s.d. Jum'at (kecuali tanggal merah);
+>
+> Pelayanan Jam 08:00 - 15:00 Wib
+>
+> Istirahat Jam 12:00 - 13:00 Wib.

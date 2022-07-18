@@ -1,0 +1,298 @@
+---
+title: Panduan Ujian Masuk Mandiri 2022/2023 (UMM)
+author: ''
+date: '2022-01-12'
+slug: []
+categories:
+  - ''
+tags:
+  - ''
+description: ''
+thumbnail: ''
+---
+
+```{=html}
+<p align="center"><strong>
+PEDOMAN UMUM <br>
+UJIAN MASUK MANDIRI PROGRAM DIPLOMA TIGA DAN ALIH JENJANG (S1) (UMM DIPLOMA DAN ALIH JENJANG) <br>
+UNIVERSITAS SULTAN AGENG TIRTAYASA <br>
+TAHUN AKADEMIK 2022/2023
+</strong></p>
+```
+### **PROGRAM STUDI**
+
+```{=html}
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-zv4m" rowspan="4">DIPLOMA TIGA EKONOMI</th>
+    <th class="tg-zv4m">: D3 Akuntansi</th>
+  </tr>
+  <tr>
+    <th class="tg-zv4m">: D3 Perpajakan</th>
+  </tr>
+  <tr>
+    <th class="tg-zv4m">: D3 Perbankan dan Keuangan</th>
+  </tr>
+  <tr>
+    <th class="tg-zv4m">: D3 Manajemen Pemasaran</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zv4m">DIPLOMA TIGA KEPERAWATAN</td>
+    <td class="tg-zv4m">: D3 Keperawatan</td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m" rowspan="2">ALIH JENJANG EKONOMI<br></td>
+    <td class="tg-zv4m">: S1 Manajemen</td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m">: S1 Akuntansi</td>
+  </tr>
+</tbody>
+</table>
+```
+### **PERSYARATAN UMUM PENDAFTARAN**
+
+**DIPLOMA TIGA KEPERAWATAN:**
+
+1.  Lulusan SMA/MA/SMK Kesehatan/SMK Farmasi/SMK Analis/SMK Kimia, berijazah, 5 (lima) tahun terakhir 2018, 2019, 2020, 2021, dan 2022
+2.  Bagi lulusan tahun 2022, telah memiliki Surat Keterangan Lulus yang memuat sekurang-kurangnya informasi jati diri, pas foto yang bersangkutan, serta dibubuhi cap yang sah.
+3.  Peserta seleksi dalam kondisi sehat jasmani dan rohani.
+4.  Tinggi badan minimum; Perempuan : 150 cm Laki-laki : 155 cm
+5.  Tidak buta warna, parsial maupun total.
+6.  Bebas Narkoba dari RS Pemerintah
+
+**DIPLOMA TIGA EKONOMI:**
+
+1.  Lulusan SMA/MA/SMK/atau sederajat dan Paket C, berijazah, 5 (lima) tahun terakhir 2018, 2019, 2020, 2021 dan 2022
+2.  Bagi lulusan Paket C, usia maksimum saat pendaftaran adalah 22 tahun
+3.  Bagi lulusan tahun 2022, telah memiliki Surat Keterangan Lulus yang memuat sekurang-kurangnya informasi jati diri, pas foto yang bersangkutan, serta dibubuhi cap yang sah.
+4.  Peserta seleksi dalam kondisi sehat jasmani dan rohani.
+5.  Bebas Narkoba dari RS Pemerintah
+
+**ALIH JENJANG EKONOMI (HANYA DI GELOMBANG II):**
+
+1.  Lulusan PTN, angkatan lima tahun terakhir.
+2.  Ijazah D3 dan Transkrip Minimal IPK 2,75.
+3.  Akreditasi BAN PT Asal D3 dari PTN lain, minimal B (baik).
+4.  Biaya konversi setelah diterima adalah Rp 1.000.000,-
+5.  Peserta seleksi dalam kondisi sehat jasmani dan rohani.
+6.  Bebas Narkoba
+
+### **JADUAL PELAKSANAAN**
+
+| **Keterangan**                                                 | **Gelombang 1**   | **Gelombang 2 (tentatif)** |
+|----------------------------------------------------------------|-------------------|----------------------------|
+| Pendaftaran                                                    | -belum ada jadwal | -belum ada jadwal          |
+| Ujian Masuk                                                    | -belum ada jadwal | -belum ada jadwal          |
+| Pengumuman Hasil Ujian                                         | -belum ada jadwal | -belum ada jadwal          |
+| Mengunggah Hasil Test Kesehatan dan Narkoba (Kelompok Ekonomi) | -belum ada jadwal | -belum ada jadwal          |
+| Pembayaran UKT dan BPIN                                        | -belum ada jadwal | -belum ada jadwal          |
+
+### **MATERI UJIAN**
+
+|              |                                         |
+|--------------|-----------------------------------------|
+| EKONOMI      | : Tes Potensi Skolastik (TPS)           |
+|              | : Tes Kemampuan Akademik Soshum (TKS)   |
+| KEPERAWATAN  | : Tes Potensi Skolastik (TPS)           |
+|              | : Tes Kemampuan Akademik Saintek (TKS)  |
+| ALIH JENJANG | : Tes Potensi Skolastik (TPS)           |
+|              | : Tes Kemampuan Akademik Keilmuan (TKK) |
+
+### **PENGUMUMAN HASIL SELEKSI**
+
+Hasil seleksi diumumkan melalui laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id)atau bisa dilihat di web <https://untirta.ac.id>, <https://spmb.untirta.ac.id>
+
+**BIAYA PENDAFTARAN**
+
+Diploma Tiga dan Alih Jenjang Ekonomi : Rp 400.000,-
+
+Diploma Tiga Keperawatan : Rp 550.000,-
+
+Membayar Iuran Pengembangan Institusi Negara (IPIN), jika dinyatakan Lulus;
+
+-   Diploma Tiga Ekonomi : Rp belum ditentukan
+
+-   Diploma Tiga Keperawatan : Rp belum ditentukan
+
+-   Alih Jenjang Ekonomi Fakultas Ekonomi dan Bisnis : Rp belum ditentukan
+
+Biaya konversi setelah diterima : Rp 1.000.000,-
+
+### **BIAYA PENDIDIKAN**
+
+1.  Biaya Uang Kuliah Tunggal (UKT) sesuai dengan Keputusan Rektor Nomor: 379/UN43/KP.TM.01.03/2020 tentang Penetapan Biaya Pendaftaran, Uang Kuliah Tunggal, dan Iuran Pembangunan Institusi Bagi Mahasiswa Baru Program Sarjana Jalur Seleksi Mandiri Masuk Perguruan Tinggi Negeri Wilayah Barat Universitas Sultan Ageng Tirtayasa Tahun Akademik 2022/2023, yaitu:
+
+| No  | Kode | Program Studi         | K3          | K4          | K5          | K6          |
+|:----|:-----|:----------------------|:------------|:------------|:------------|:------------|
+| 1\. | 5501 | Akuntansi             | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
+| 2\. | 5502 | Manajemen Pemasaran   | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
+| 3\. | 5503 | Perpajakan            | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
+| 4\. | 5504 | Perbankan dan Keungan | 3.000.000,- | 4.000.000,- | 5.500.000,- | \-          |
+| 5\. | 8801 | Keperawatan           | 6.000.000,- | 6.500.000,- | 7.000.000,- | \-          |
+| 6\. | 5551 | Manajemen (S1)        | 3.000.000,- | 4.500.000,- | 6.000.000,- | \-          |
+| 7\. | 5552 | Akuntansi (S1)        | 3.000.000,- | 5.000.000,- | 6.500.000,- | 7.500.000,- |
+
+2.  **Biaya yang harus dibayar di awal semester I = Biaya IPIN + UKT.** Untuk semester selanjutnya yang dibayar hanya UKT.
+
+**TATA CARA PENDAFTARAN**
+
+```{=html}
+<p>Pendaftaran <em>online</em> dilakukan mulai: <br>
+<strong>Gelombang 1</strong> : 24 Januari – 29 April 2022, pukul 23.59 WIB <br>
+<strong>Gelombang 2</strong> : 17 Mei – 15 Juli 2022, pukul 23.59 WIB (tentative)
+</p>
+```
+1.  Buka laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id)**, Klik Daftar** pada tanda yang ditunjuk panah merah.
+
+    ![](images/Picture1.png)
+
+2.  Masukan data yang diminta dan pilihan program studi yang diinginkan. Pastikan data diisi dengan benar (no.HP/email) karena semua data akan mejadi acuan panitia dalam berkomunikasi atu mengirim notifikasi. Satu email hanya bisa dipakai untuk mendaftar satu kali.  
+
+3.  Setelah memasukan kode verifikasi dan ceklis konfirmasi kemudian klik **Daftar**.
+
+    ![](images/Picture2.png)
+
+    > *Peserta Program studi **Diploma Tiga Ekonomi**, dapat memilih maksimal **dua program studi**, sedangkan peserta **Ahli Jenjang (S1)**, hanya diperbolehkan memilih **satu** jurusan, sesuai dengan linieritas ijazah diplomanya.*
+
+    > *Peserta yang berminat memilih **Diploma Tiga Keperawatan** hanya satu pilihan.*
+
+4.  **Cetak Bukti Pendaftaran** dan tunjukan ke petugas Teler Bank untuk pembayaran, atau bisa melakukan pembayaran dengan salah satu fasilitas Bank cek [**di sini**](https://drive.google.com/file/d/1IIaFh62Irl6cK4EpdaTqcwOk3OMfmH8t/view?usp=sharing)
+
+5.  Setelah melakukan pembayaran, buka kembali laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id) kemudian pendaftar melakukan **Login,** dengan menggunakan Nomor Pendaftaran dan Password yang ada pada Bukti Pendaftaran.
+
+6.  **Lengkapi Data dengan Benar dan Jujur,** berikut dokumen yang harus dilengkapi :
+
+    1.  File Pasfoto berwarna terbaru (standar untuk ijazah) dengan wajah menghadap ke depan, ukuran 4x6 cm, **berformat \*jpg**, dengan resolusi maksimum 300pxl x 450pxl, dan ukuran file maksimum 200 kb.
+
+    2.  Pakta Integritas Uang Kuliah Tunggal, klik--> [**Jalur UMM D3 dan Alih Jenjang**](https://drive.google.com/file/d/1KVdwLtAwVy13ppo2aW-Qh8Gwhs2JLWt_/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
+
+    3.  klik---> [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1KicWOfHIsxk0aDctxTJ0eVCwMioxHGLW/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
+
+    4.  Ijazah / Surat Keterangan Lulus bagi lulusan tahun 2022 yang belum memperoleh Ijazah. (scan, upload)
+
+    5.  Akta Kelahiran (*scan* dan *upload*).
+
+    6.  Kartu Keluarga (*scan* dan *upload*).
+
+    7.  Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar* (*scan* dan *upload*).
+
+    8.  SPPT Pajak Bumi dan Bangunan (PBB) maximal 2 (dua) Tahun terakhir **atau** klik--> [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati bagi yang tidak punya SPPT**](https://drive.google.com/file/d/1KcB8OgHbwCVpOmQ5tBbOWvJAfmTyc6sR/view?usp=sharing) (*download*, isi, *scan*, dan *upload*).
+
+    9.  Bukti Penghasilan Ayah dan Penghasilan Ibu dengan ketentuan sebagai berikut (*scan* dan *upload*):
+
+        -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta** : Slip Gaji / Bukti Penghasilan maksimal 2 (dua) bulan terakhir **tahun 2022 (terbaru)**,
+
+        -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Tidak Mempunyai Pekerjaan Tetap** : Surat Keterangan Penghasilan dari Kelurahan dengan wajib mencantumkan **(1) NAMA PEKERJAAN (2) NOMINAL PENGHASILAN/bulan** (*scan* dan *upload*),
+
+        -   **Pensiunan** : Rekening Koran atau *print out* Buku Rekening Pensiun maksimal 2 (dua) bulan terakhir **tahun 2022 (terbaru)**.
+
+            > ***Jika Ayah sudah meninggal** kolom penghasilan di isi nol. Dokumen yang di upload Surat Kematian.*
+            >
+            > *Penghasilan Ayah dan Ibu di isi dengan data sebenarnya dan **tidak boleh 0 (nol) semua**.*
+
+    10. klik--> [**Surat Pernyataan Kebenaran / Keabsahan Data**](https://drive.google.com/file/d/1MFw80ubHzl9h9FIHJNGzGmkVkNfNkEQ5/view?usp=sharing) (dowload, isi, scan dan upload)
+
+    > **Pertanyaan / Isian yang bertanda bintang (\*) wajib di isi**, sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di isi jika anda mempunyai datanya atau boleh dikosongkan.
+
+## Jadwal Ujian Tulis Berbasis Komputer (UTBK)
+
+```{=html}
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7btt">Hari dan Tanggal</th>
+    <th class="tg-7btt">Kegiatan</th>
+    <th class="tg-7btt">Waktu (WIB)</th>
+    <th class="tg-7btt">Kelompok Ujian</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky" rowspan="6">Gelombang 1<br>Sabtu, 07 Mei 2022<br></td>
+    <td class="tg-0pky">Peserta masuk ruang ujian</td>
+    <td class="tg-c3ow">08.25 – 08.30</td>
+    <td class="tg-0pky" rowspan="5">Ekonomi dan Keperawatan</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Pemeriksaan identitas dan dokumen</td>
+    <td class="tg-c3ow">08.30 – 08.40</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Latihan</td>
+    <td class="tg-c3ow">08.40 – 08.45</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Tes Potensi Skolastik (TPS)</td>
+    <td class="tg-c3ow">08.45 – 10.30</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Tes Kemampuan Akademik (TKA) Saintek/Soshum</td>
+    <td class="tg-c3ow">10.30 – 12.00</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Test Kesehatan (Kampus Pakupatan)</td>
+    <td class="tg-c3ow">12.00 – 17.00</td>
+    <td class="tg-0pky">Keperawatan</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="6">Gelombang 2 (tentativ)<br>Sabtu, 30 Juli 2022<br></td>
+    <td class="tg-0pky">Peserta masuk ruang ujian</td>
+    <td class="tg-c3ow">08.25 – 08.30</td>
+    <td class="tg-0pky" rowspan="5">Ekonomi, Keperawatan, <br>dan Alih Jenjang</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Pemeriksaan identitas dan dokumen</td>
+    <td class="tg-c3ow">08.30 – 08.40</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Latihan</td>
+    <td class="tg-c3ow">08.40 – 08.45</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Tes Potensi Skolastik (TPS)</td>
+    <td class="tg-c3ow">08.45 – 10.30</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Tes Kemampuan Akademik (TKA) Saintek/Soshum,<br>Tes Kemampuan Keilmuan (TKK) untuk Alih Jenjang</td>
+    <td class="tg-c3ow">10:30 - 12:00</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Test Kesehatan (Kampus Pakupatan)</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Keperawatan</td>
+  </tr>
+</tbody>
+</table>
+```
+> Peserta wajib hadir di lokasi ujian, 90 menit sebelum ujian dilaksanakan.
+
+**Helpdesk** pendaftaran di Gedung Pusdainfo Lantai 1, Universitas Sultan Ageng Tirtayasa. Telpon; [**0817738817**](https://wa.me/62817738817); [**081911106670**](https://wa.me/6281911106670)
+
+Email: [**pmb\@untirta.ac.id**](mailto:pmb@untirta.ac.id) dan [**humas\@untirta.ac.id**](mailto:humas@untirta.ac.id)
+
+### Ketentuan Khusus
+
+1.  Calon mahasiswa baru yang tidak dapat memenuhi persyaratan registrasi administrasi sebagaimana yang ditetapkan dinyatakan **GUGUR**.
+2.  Biaya UKT dan IPIn yang telah dibayarkan sesuai dengan besaran yang telah ditetapkan, tidak dapat dikembalikan, kecuali jika mahasiswa yang bersangkutan telah diterima di jurusan/prodi yang ada di Universitas Sultan Ageng Tirtayasa, melalui jalur SBMPTN atau SMMPTN Barat.

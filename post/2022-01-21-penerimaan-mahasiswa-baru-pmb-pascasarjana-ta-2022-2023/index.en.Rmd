@@ -1,0 +1,243 @@
+---
+title: Penerimaan Mahasiswa Baru (PMB) Pascasarjana TA 2022/2023
+author: registrasi
+date: '2022-02-11'
+slug: []
+categories:
+  - ''
+tags:
+  - pmb 2022
+  - pascasarjana
+description: ''
+thumbnail: ''
+---
+
+Program Doktor (S3) dan Program Magister (S2) Pascasarjana Universitas Sultan Ageng Tirtayasa (Untirta) berkontribusi dalam pengembangan keilmuan untuk menghasilkan karya-karya ilmiah unggulan dan menghasilkan lulusan Doktor (S3) dan Program Magister (S2) yang kompeten. Pascasarjana Untirta membuka pendaftaran mahasiswa baru Magister (S2) dan Doktor (S3) Tahun Akademik 2022/2023.
+
+### Jadwal Penerimaan Mahasiswa Baru (PMB)
+
+**Gelombang 1**
+
+Pendaftaran: **14 Februari 2022 -- 11 April 2022**
+
+Pelaksanaan Seleksi Test dan Wawancara : **16 April 2022**
+
+Pengumuman Hasil Seleksi: **19 April 2022**
+
+Registrasi / Pembayaran SPP: **20 -- 29 April 2022**
+
+------------------------------------------------------------------------
+
+**Gelombang 2 (*Apabila Kuota Gelombang 1 Belum Terpenuhi*)**
+
+Pendaftaran: **09 Maret 2022 -- 06 Juli 2022**
+
+Pelaksanaan Seleksi: **09 Juli 2022**
+
+Pengumuman Hasil Seleksi: **13 Juli 2022**
+
+Registrasi / Pembayaran SPP: **14 -- 29 Juli 2022**
+
+------------------------------------------------------------------------
+
+Kegiatan Orientasi MahasiswaBaru: **06 Agustus 2022**
+
+Kegiatan Penyegaran Mahasiswa Baru: **08 -- 27 Agustus 2022**
+
+Awal Perkuliahan: **01 September 2022**
+
+### Program Studi
+
+**Program Doktor (S3)**
+
+1.  Program Studi Doktor Pendidikan
+2.  Program Studi Doktor Ilmu Akuntansi
+3.  Program Studi Doktor Ilmu Pertanian
+
+**Program Magister (S2)**
+
+1.  Pendidikan Bahasa Indonesia
+
+2.  Teknologi Pendidikan
+
+    -   *Konsentrasi Manajemen Pendidikan*
+    -   *Konsentrasi PAUD*
+
+3.  Hukum
+
+    -   *Konsentrasi Hukum Pidana*
+    -   *Konsentrasi Hukum Perdata*
+    -   *Konsentrasi Hukum Tata Negara*
+    -   *Konsentrasi Hukum Kesehatan*
+
+4.  Administrasi Publik
+
+5.  Akuntansi
+
+6.  Manajemen
+
+    -   *Konsentrasi Manajemen Pemasaran*
+    -   *Konsentrasi Manajemen SDM*
+    -   *Konsentrasi Manajemen Keuangan*
+
+7.  Pendidikan Bahasa Inggris
+
+8.  Pendidikan Matematika
+
+9.  Ilmu Pertanian
+
+10. Ilmu Komunikasi
+
+11. Teknik Kimia
+
+12. Pendidikan Dasar
+
+### **Jadwal Pelaksanaan**
+
+| Item              | Waktu                     |
+|-------------------|---------------------------|
+| Persiapan Seleksi | : pukul 07:00 - 07:30 Wib |
+| Sesi 1            | : pukul 07:30 - 09:30 Wib |
+| Istirahat         | : pukul 09:30 - 10:00 Wib |
+| Sesi 2            | : pukul 10:00 -12:00 Wib  |
+
+### Biaya Perkuliahan
+
+```{=html}
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2z6x{background-color:#9b9b9b;border-color:inherit;text-align:right;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-g7sd{border-color:inherit;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-g7sd" rowspan="2">Rincian</th>
+    <th class="tg-7btt" colspan="2">Biaya</th>
+  </tr>
+  <tr>
+    <th class="tg-7btt">Program Magister (S2)</th>
+    <th class="tg-7btt">Program Doktor (S3)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Pendaftaran</td>
+    <td class="tg-dvpl">Rp500.000,00</td>
+    <td class="tg-dvpl">Rp650.000,00</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Matrikulasi</td>
+    <td class="tg-dvpl">Rp1.000.000,00</td>
+    <td class="tg-dvpl">Rp5.000.000,00</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">SPP/Semester</td>
+    <td class="tg-dvpl">Rp8.500.000,00</td>
+    <td class="tg-dvpl"><span style="font-weight:bold">Doktor Pendidikan dan Doktor Ilmu Pertanian:</span> Rp11.000.000,00<br><span style="font-weight:bold">Doktor Ilmu Akuntansi</span>: Rp15.000.000,00</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Jaket Almamater, KTM,<br>Kartu Perpustakaan</td>
+    <td class="tg-c3ow" colspan="2">Rp550.000,00</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Intensive English Program</td>
+    <td class="tg-dvpl">Rp500.000,00</td>
+    <td class="tg-2z6x">-</td>
+  </tr>
+</tbody>
+</table>
+```
+### Prosedur Pendaftaran
+
+1.  Buka laman <https://admisi.untirta.ac.id>
+
+    Klik **Daftar**, masukkan/ketik: Nama Lengkap, No. Telepon/HP, alamat e-mail, pilih jalur masuk Pascasarjana, pilih Gelombang, Pilih Kelompok Ujian MAGISTER atau DOKTOR, dan ketik ulang Kode Verifikasi.
+
+    > **Cetak** Surat Konfirmasi Pendaftaran untuk dibawa ke BNI dan melakukan Pembayaran.
+
+2.  Melakukan Pembayaran Pendaftaran
+
+    Pembayaran pendaftaran bisa dilakukan melalui:
+
+    a.  Teller BNI dengan menunjukkan hasil cetak Surat Konfirmasi Pendaftaran dari Bagian 1.
+    b.  M-Banking BNI dengan cara klik Pembayaran dan memasukkan Kode Biling Nomor Pendaftaran
+
+3.  Unggah Dokumen di laman <https://admisi.untirta.ac.id>
+
+    > **Login** dengan menggunakan Nomor Pendaftaran dan Password yang ada pada Surat Konfirmasi Pendaftaran.
+
+    Dokumen pendukung dalam bentuk file pdf atau jpg **(maximal 275kb)**:
+
+    a.  Pas Photo terbaru
+
+    b.  Isi Biodata
+
+    c.  Unggah (*upload*) data pendukung:
+
+        1.  Ijazah S-1, Transkrip Nilai S-1 (Program Magister)
+
+        2.  Ijazah S-1, S-2, Transkrip Nilai S-1, S-2 (Program Doktor)
+
+        3.  Sertifikat akreditasi program studi pada jenjang S1 dan S2 yang berlaku terakhir
+
+        4.  Surat izin/tugas belajar dari instansi tempat bekerja bagi pendaftar yang sedang bekerja
+
+        5.  Surat keterangan sehat dari Fasilitas Kesehatan yang memiliki izin dari pemerintah
+
+        6.  Unduh, cetak, isi, scan, dan unggah dokumen [**di sini**](https://drive.google.com/file/d/1_uH_GS-4tKLkoZodWsIoB1WCt9ncmbOK/view?usp=sharing){target="_blank"} khusus S2
+
+        7.  Unduh, cetak, isi, scan, dan unggah dokumen [**di sini**](https://drive.google.com/file/d/1_ZoV1c57HOlYCIxCgLE-WJSNpwvRX3Zo/view?usp=sharing){target="_blank"} khusus S3
+
+        8.  Proposal mini khusus S3
+
+            > Proposal Mini adalah ide atau gagasan penelitian yang dituangkan dalam bentuk tulisan yang ditulis oleh mahasiswa S-3 Pascasarjana Untirta dengan maksud untuk mengetahui
+            > rencana penelitian dan menentukan dosen pembimbing/promotor.
+            >
+            > **Proposal Mini terdiri dari empat bagian**:
+            >
+            > a\) Bagian pertama, membahas mengenai latar belakangan pemilihan topik, alasan pemilihan topik, pertanyaan penelitian, tujuan penelitian, dan kebaruan/inovasi penelitian (*state of theart*)
+            >
+            > b\) Bagian kedua, menjelaskan secara singkat mengenai teori utama dan teori pendukung yang akan digunakan dalam penelitian
+            >
+            > c\) Bagian ketiga, membahas tentang rencana metode yang akan diterapkan dalam penelitian, termasuk waktu, tempat, dan desain/pendekatan penelitian
+            >
+            > d\)  Bagian keempat, mencantumkan daftar pustaka
+            >
+            > **Ketentuan Proposal Mini:**
+            >
+            > a\)  Judul yang terdiri dari maksimum 12 kata
+            >
+            > b\) Tulisan terdiri dari 1500-2000 kata (6 -- 7 lembar)
+            >
+            > c\) Ditulis menggunakan i, dua spasi, font *Times New Roman*, ukuran font 12 poin, dan ukuran kertas A4
+            >
+            > d\) Penulisan sitasi dan daftar pustaka menggunakan *reference manager* (*EndNote, Mendeley,*
+            > atau program lain)
+            >
+            > e\) Memuat minimal 15 buah artikel jurnal sebagai rujukan utama yang terbit dalam tujuh
+            > tahun terakhir.
+            >
+            > f) Secara umum, proposal mini ditulis menggunakan gaya *American Psychology Association* (APA).
+            >
+            > g\) Disimpan dalam filePDF dengan ukuran maksimal 200 KB.
+
+### Materi Ujian
+
+1.  Tes Potensi Akademik (TPA)
+2.  Wawancara
+3.  TOEFL
+
+**Helpdesk** pendaftaran di Gedung Pascasarjana, Universitas Sultan Ageng Tirtayasa - Kampus Pakupatan. Telpon; [**0817738817**](https://wa.me/62817738817); [**081911106670**](https://wa.me/6281911106670)**; 08118883616; 08128558538**
+
+Email: [**pmb\@untirta.ac.id**](mailto:pmb@untirta.ac.id) dan [**humas\@untirta.ac.id**](mailto:humas@untirta.ac.id)
+
+Download brosur : [**disini**](https://drive.google.com/file/d/1yuiWmM5BFwm4XSiPlenG2A0TtpBt900I/view?usp=sharing)

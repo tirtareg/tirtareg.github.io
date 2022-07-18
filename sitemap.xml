@@ -2,26 +2,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
       <loc>/</loc>
-      <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+      <lastmod>2022-03-10T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>/post/2021-10-29-penyesuaian-ukt-semester-genap-2021-2022/</loc>
-      <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+      <loc>/post/2022-03-10-panduan-registrasi-ulang-snmptn-sbmptn-dan-smmptn/</loc>
+      <lastmod>2022-03-10T00:00:00+00:00</lastmod>
     </url>
     
     <url>
       <loc>/post/</loc>
-      <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+      <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/registrasi/</loc>
+      <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/sbmptn/</loc>
+      <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/snmptn/</loc>
+      <lastmod>2022-03-10T00:00:00+00:00</lastmod>
     </url>
     
     <url>
       <loc>/tags/</loc>
-      <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+      <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/pascasarjana/</loc>
+      <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2022-01-21-penerimaan-mahasiswa-baru-pmb-pascasarjana-ta-2022-2023/</loc>
+      <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/pmb-2022/</loc>
+      <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/tags/penangguhan/</loc>
+      <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2022-02-02-penangguhan-ukt-semester-genap-2021-2022/</loc>
+      <lastmod>2022-02-02T00:00:00+00:00</lastmod>
     </url>
     
     <url>
       <loc>/tags/ukt/</loc>
+      <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2022-01-12-panduan-umm/</loc>
+      <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2021-12-23-buku-pedoman-akademik-2021/</loc>
+      <lastmod>2021-12-23T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2021-10-29-penyesuaian-ukt-semester-genap-2021-2022/</loc>
       <lastmod>2021-10-29T00:00:00+00:00</lastmod>
     </url>
     
@@ -48,11 +103,6 @@
     <url>
       <loc>/post/2021-08-06-jadwal-ujian-umm-d3-dan-alih-jenjang-2021/</loc>
       <lastmod>2021-08-06T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>/tags/penangguhan/</loc>
-      <lastmod>2021-07-31T00:00:00+00:00</lastmod>
     </url>
     
     <url>
@@ -126,17 +176,7 @@
     </url>
     
     <url>
-      <loc>/tags/sbmptn/</loc>
-      <lastmod>2021-04-07T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
       <loc>/tags/smmptn/</loc>
-      <lastmod>2021-04-07T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>/tags/snmptn/</loc>
       <lastmod>2021-04-07T00:00:00+00:00</lastmod>
     </url>
     
@@ -157,11 +197,6 @@
     
     <url>
       <loc>/post/2021-02-23-panduan-registrasi-snmptn-sbmptn-dan-smmptn/</loc>
-      <lastmod>2021-02-23T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>/tags/registrasi/</loc>
       <lastmod>2021-02-23T00:00:00+00:00</lastmod>
     </url>
     
@@ -198,6 +233,11 @@
     <url>
       <loc>/tags/kip-k/</loc>
       <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>/post/2022-01-10-pmb-umm-2022/</loc>
+      <lastmod>2020-01-11T00:00:00+00:00</lastmod>
     </url>
     
     <url>
