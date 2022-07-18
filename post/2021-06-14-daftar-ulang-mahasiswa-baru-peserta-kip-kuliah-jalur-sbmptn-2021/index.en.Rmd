@@ -20,49 +20,134 @@ thumbnail: ''
 
 3.  Tanggal **15 s.d. 24 Juni 2021** wajib melakukan daftar ulang Calon Mahasiswa Baru KIP Kuliah pada link [**http://bit.ly/KIPK-Untirta-21**](http://bit.ly/KIPK-Untirta-21){.uri} serta mengupload file berukuran **tidak lebih dari 1 MB** dengan format nama file (rename): **No. SBMPTN_Nama Camaba_Jenis Data**.
 
-    +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | **No** | **File yang harus di upload**                                                                                                                                      | **Jenis File** | **Contoh Nama file**<br>**(No.SNMPTN_Nama Camaba_Jenis data)**                                                                                                              |
-    +========+====================================================================================================================================================================+================+=============================================================================================================================================================================+
-    | a\.    | Kartu Tanda Penduduk (KTP)                                                                                                                                         | PDF/JPG        | 12345678_Budi Pratama_KTP                                                                                                                                                   |
-    +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | b\.    | Kartu Keluarga (KK)                                                                                                                                                | PDF/JPG        | 12345678_Budi Pratama_KK                                                                                                                                                    |
-    +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | c\.    | Rekening Listrik (Bulan Terakhir)                                                                                                                                  | PDF/JPG        | 12345678_Budi Pratama_Listrik                                                                                                                                               |
-    +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | d\.    | Slip Gaji / Surat Keterangan Penghasilan Ayah                                                                                                                      | PDF/JPG        | 12345678_Budi Pratama_Ayah                                                                                                                                                  |
-    +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | e\.    | Slip Gaji / Surat Keterangan Penghasilan Ibu                                                                                                                       | PDF/JPG        | 12345678_Budi Pratama_Ibu                                                                                                                                                   |
-    +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | f\.    | Foto/Scan Gaji / Surat Keterangan Penghasilan Wali                                                                                                                 | PDF/JPG        | 12345678_Budi Pratama_Wali                                                                                                                                                  |
-    +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | g\.    | Foto/Scan Kartu Indonesia Pintar (KIP) / Kartu Keluarga <br> Sejahtera (KKS) / Program Keluarga Harapan (PKH) / <br>Surat DTKS / SKTM                              | PDF/JPG        | 12345678_Budi Pratama_KIP<br>12345678_Budi Pratama_KKS<br>12345678_Budi Pratama_PKH<br>12345678_Budi Pratama_DTKS<br>12345678_Budi Pratama_SKTM                             |
-    |        |                                                                                                                                                                    |                |                                                                                                                                                                             |
-    |        | (boleh lebih dari 1)                                                                                                                                               |                |                                                                                                                                                                             |
-    +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | h\.    | Foto Rumah Tinggal Tampak Depan                                                                                                                                    | JPG            | 12345678_Budi Pratama_Depan                                                                                                                                                 |
-    +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | i\.    | Foto Rumah Tampak Belakang                                                                                                                                         | JPG            | 12345678_Budi Pratama_Belakang                                                                                                                                              |
-    +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | j\.    | Foto Ruang Keluarga                                                                                                                                                | JPG            | 12345678_Budi Pratama_Keluarga                                                                                                                                              |
-    +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | k\.    | Foto Ruang Dapur                                                                                                                                                   | JPG            | 12345678_Budi Pratama_Dapur                                                                                                                                                 |
-    +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | l\.    | Foto Kamar Mandi                                                                                                                                                   | JPG            | 12345678_Budi Pratama_Mandi                                                                                                                                                 |
-    +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | m\.    | Rute Perjalanan dari pusat kota/kabupaten ke rumah <br>tinggal, berupa tempat-tempat yang dapat dijadikan <br>patokan                                              | PDF/JPG        | 12345678_Budi Pratama_Rute                                                                                                                                                  |
-    +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | n\.    | Foto/Scan SPPT PBB                                                                                                                                                 | PDF/JPG        | 12345678_Budi Pratama_PBB                                                                                                                                                   |
-    +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | o.     | Form Surat Pernyataan KIP Kuliah bermaterai 10.000, <br>dapat didownload di link [**http://bit.ly/PernyataanKIPK**](http://bit.ly/PernyataanKIPK){target="_blank"} | PDF/JPG        | 12345678_Budi Pratama_Surat                                                                                                                                                 |
-    +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | p.     | Sertifikat/Piagam penghargaan atas prestasi <br>akademik/non-akademik yang pernah diraih di <br>SMA/SMK/MA/sederajat                                               | PDF/JPG        | 12345678_Budi Pratama_Prestasi1<br>12345678_Budi Pratama_Prestasi2<br>12345678_Budi Pratama_Prestasi3<br>12345678_Budi Pratama_Prestasi4<br>12345678_Budi Pratama_Prestasi5 |
-    +--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+4.  Wawancara akan dilakukan oleh Tim Kemahasiswaan via Zoom/Whatsapp Video Call, pada **30 Maret
+    s.d. 08 April 2022**.
 
-4.  Hasil Verifikasi akan diumumkan pada **29 Juni 2021** melalui web [**kemahasiswaan.untirta.ac.id**](https://kemahasiswaan.untirta.ac.id)
+    ```{=html}
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-9wq8">No</th>
+        <th class="tg-9wq8">File yang harus diunggah</th>
+        <th class="tg-9wq8">Jenis File</th>
+        <th class="tg-9wq8">Contoh Nama File<br>(No.SNMPTN_Nama Camaba_Jenis data)<br></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky">a.</td>
+        <td class="tg-0pky">Kartu Tanda Penduduk (KTP)   </td>
+        <td class="tg-0pky">PDF/JPG   </td>
+        <td class="tg-0pky">1234567890_Budi Pratama_KTP   </td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">b.</td>
+        <td class="tg-0pky">Kartu Keluarga (KK)   </td>
+        <td class="tg-0pky">PDF/JPG   </td>
+        <td class="tg-0pky">1234567890_Budi Pratama_KK   </td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">c.</td>
+        <td class="tg-0pky">Rekening Listrik (Bulan Terakhir)   </td>
+        <td class="tg-0pky">PDF/JPG   </td>
+        <td class="tg-0pky">1234567890_Budi Pratama_Listrik   </td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">d.</td>
+        <td class="tg-0pky">Slip Gaji / Surat Keterangan Penghasilan Ayah   </td>
+        <td class="tg-0pky">PDF/JPG   </td>
+        <td class="tg-0pky">1234567890_Budi Pratama_Ayah   </td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">e.</td>
+        <td class="tg-0pky">Slip Gaji / Surat Keterangan Penghasilan Ibu   </td>
+        <td class="tg-0pky">PDF/JPG   </td>
+        <td class="tg-0pky">1234567890_Budi Pratama_Ibu   </td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">f.</td>
+        <td class="tg-0pky">Foto/Scan Gaji / Surat Keterangan Penghasilan Wali   </td>
+        <td class="tg-0pky">PDF/JPG   </td>
+        <td class="tg-0pky">1234567890_Budi Pratama_Wali   </td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">g.</td>
+        <td class="tg-0pky">Foto/Scan Kartu Indonesia Pintar (KIP) / Kartu Keluarga Sejahtera (KKS) / <br>Program Keluarga Harapan (PKH) / Surat DTKS / SKTM (boleh lebih dari 1)   </td>
+        <td class="tg-0pky">PDF/JPG   </td>
+        <td class="tg-0pky">1234567890_Budi Pratama_KIP<br>   <br>1234567890_Budi Pratama_KKS<br>   <br>1234567890_Budi Pratama_PKH<br>   <br>1234567890_Budi Pratama_DTKS<br>   <br>1234567890_Budi Pratama_SKTM   </td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">h.</td>
+        <td class="tg-0pky">Foto Rumah Tinggal Tampak Depan   </td>
+        <td class="tg-0pky">JPG   </td>
+        <td class="tg-0pky">1234567890_Budi Pratama_Depan   </td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">i.</td>
+        <td class="tg-0pky">Foto Rumah Tampak Belakang   </td>
+        <td class="tg-0pky">JPG   </td>
+        <td class="tg-0pky">1234567890_Budi Pratama_Belakang   </td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">j.</td>
+        <td class="tg-0pky">Foto Ruang Keluarga   </td>
+        <td class="tg-0pky">JPG   </td>
+        <td class="tg-0pky">1234567890_Budi Pratama_Keluarga   </td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">k.</td>
+        <td class="tg-0pky">Foto Ruang Dapur   </td>
+        <td class="tg-0pky">JPG   </td>
+        <td class="tg-0pky">1234567890_Budi Pratama_Dapur   </td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">l.</td>
+        <td class="tg-0pky">Foto Kamar Mandi   </td>
+        <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>JPG&nbsp;&nbsp;&nbsp;</td>
+        <td class="tg-0pky">1234567890_Budi Pratama_Mandi   </td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">m.</td>
+        <td class="tg-0pky">Rute Perjalanan dari pusat kota/kabupaten ke rumah tinggal, <br>berupa tempat-tempat yang dapat dijadikan patokan   </td>
+        <td class="tg-0pky">PDF/JPG   </td>
+        <td class="tg-0pky">1234567890_Budi Pratama_Rute   </td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">n.<br></td>
+        <td class="tg-0pky">Foto/Scan SPPT PBB   </td>
+        <td class="tg-0pky">PDF/JPG   </td>
+        <td class="tg-0pky">1234567890_Budi Pratama_PBB   </td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">o.</td>
+        <td class="tg-0pky">Form Surat Pernyataan KIP Kuliah, dapat didownload <br>di link <a href="http://bit.ly/PernyataanKIPK" target="_blank" rel="noopener noreferrer">http://bit.ly/PernyataanKIPK</a>    </td>
+        <td class="tg-0pky">PDF/JPG   </td>
+        <td class="tg-0pky">1234567890_Budi Pratama_Surat   </td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">p.</td>
+        <td class="tg-0pky">Sertifikat/Piagam penghargaan atas prestasi akademik/non-akademik <br>yang pernah diraih di SMA/SMK/MA/sederajat   </td>
+        <td class="tg-0pky">PDF/JPG   </td>
+        <td class="tg-0pky">1234567890_Budi Pratama_Prestasi1<br>   <br>1234567890_Budi Pratama_Prestasi2<br>   <br>1234567890_Budi Pratama_Prestasi3<br>   <br>1234567890_Budi Pratama_Prestasi4<br>   <br>1234567890_Budi Pratama_Prestasi5   </td>
+      </tr>
+    </tbody>
+    </table>
+    ```
+
+5.  Hasil Verifikasi akan diumumkan pada **29 Juni 2021** melalui web [**kemahasiswaan.untirta.ac.id**](https://kemahasiswaan.untirta.ac.id)
 
     -   Jika **tidak diterima**, silahkan membayar UKT sesuai yang tertera di laman [**admisi.untirta.ac.id**](https://admisi.untirta.ac.id)
     -   Jika **diterima**, anda tidak membayar UKT.
 
-5.  Bergabung dengan grup Telegram : [**http://bit.ly/KIPKUntirta2021**](http://bit.ly/KIPKUntirta2021){.uri}
+6.  Bergabung dengan grup Telegram : [**http://bit.ly/KIPKUntirta2021**](http://bit.ly/KIPKUntirta2021){.uri}
 
-6.  Hotline Kemahasiswaan BAKP 081210275080
+7.  Hotline Kemahasiswaan BAKP 081210275080

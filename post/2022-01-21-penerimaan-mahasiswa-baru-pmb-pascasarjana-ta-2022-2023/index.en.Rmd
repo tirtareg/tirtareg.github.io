@@ -30,13 +30,13 @@ Registrasi / Pembayaran SPP: **20 -- 29 April 2022**
 
 **Gelombang 2 (*Apabila Kuota Gelombang 1 Belum Terpenuhi*)**
 
-Pendaftaran: **09 Maret 2022 -- 06 Juli 2022**
+Pendaftaran: **09 Mei 2022 -- 13 Juli 2022**
 
-Pelaksanaan Seleksi: **09 Juli 2022**
+Pelaksanaan Seleksi: **16 Juli 2022**
 
-Pengumuman Hasil Seleksi: **13 Juli 2022**
+Pengumuman Hasil Seleksi: **20 Juli 2022**
 
-Registrasi / Pembayaran SPP: **14 -- 29 Juli 2022**
+Registrasi / Pembayaran SPP: **21 -- 29 Juli 2022**
 
 ------------------------------------------------------------------------
 
@@ -91,6 +91,8 @@ Awal Perkuliahan: **01 September 2022**
 11. Teknik Kimia
 
 12. Pendidikan Dasar
+
+13. Ekonomi
 
 ### **Jadwal Pelaksanaan**
 
@@ -158,24 +160,38 @@ Awal Perkuliahan: **01 September 2022**
 ```
 ### Prosedur Pendaftaran
 
+![](images/ALUR%20PMB_page-0001.jpg){width="1420"}
+
 1.  Buka laman <https://admisi.untirta.ac.id>
 
     Klik **Daftar**, masukkan/ketik: Nama Lengkap, No. Telepon/HP, alamat e-mail, pilih jalur masuk Pascasarjana, pilih Gelombang, Pilih Kelompok Ujian MAGISTER atau DOKTOR, dan ketik ulang Kode Verifikasi.
 
-    > **Cetak** Surat Konfirmasi Pendaftaran untuk dibawa ke BNI dan melakukan Pembayaran.
+    ![](images/Picture1.png)
+
+    ![](images/Picture3.png){width="500"}
+
+    > **Klik Daftar untu Mencetak** Surat Konfirmasi Pendaftaran untuk dibawa ke BNI dan melakukan Pembayaran.
+
+    contoh :
+
+    ![](images/Surat%20Konf.png){width="400"}
 
 2.  Melakukan Pembayaran Pendaftaran
 
-    Pembayaran pendaftaran bisa dilakukan melalui:
+    Pembayaran pendaftaran dilakukan untuk mengaktifkan Nomor Pendaftaran (token) dan Password. Untuk Selanjutnya bisa digunakan untuk **Login** ke <https://admisi.untirta.ac.id> dan melengkapi data.
 
-    a.  Teller BNI dengan menunjukkan hasil cetak Surat Konfirmasi Pendaftaran dari Bagian 1.
+    Pembayaran melalui Bank BNI :
+
+    a.  Teller BNI dengan menunjukkan hasil cetak Surat Konfirmasi Pendaftaran.
     b.  M-Banking BNI dengan cara klik Pembayaran dan memasukkan Kode Biling Nomor Pendaftaran
 
-3.  Unggah Dokumen di laman <https://admisi.untirta.ac.id>
+3.  Unggah Dokumen di laman [**https://admisi.untirta.ac.id**](https://admisi.untirta.ac.id){.uri}
 
     > **Login** dengan menggunakan Nomor Pendaftaran dan Password yang ada pada Surat Konfirmasi Pendaftaran.
 
-    Dokumen pendukung dalam bentuk file pdf atau jpg **(maximal 275kb)**:
+    Dokumen/syarat pendukung dalam bentuk file pdf atau jpg **(maximal 275kb) yang harus disiapkan** :
+
+    A. **PROGRAM MAGISTER (S2)**
 
     a.  Pas Photo terbaru
 
@@ -185,59 +201,104 @@ Awal Perkuliahan: **01 September 2022**
 
         1.  Ijazah S-1, Transkrip Nilai S-1 (Program Magister)
 
-        2.  Ijazah S-1, S-2, Transkrip Nilai S-1, S-2 (Program Doktor)
+        2.  Sertifikat akreditasi program studi pada jenjang S1 yang berlaku terakhir
 
-        3.  Sertifikat akreditasi program studi pada jenjang S1 dan S2 yang berlaku terakhir
+        3.  Sertifikat TOEFL dengan skor minimal 400.
 
         4.  Surat izin/tugas belajar dari instansi tempat bekerja bagi pendaftar yang sedang bekerja
 
         5.  Surat keterangan sehat dari Fasilitas Kesehatan yang memiliki izin dari pemerintah
 
-        6.  Unduh, cetak, isi, scan, dan unggah dokumen [**di sini**](https://drive.google.com/file/d/1_uH_GS-4tKLkoZodWsIoB1WCt9ncmbOK/view?usp=sharing){target="_blank"} khusus S2
+        6.  Surat rekomendasi kelayakan akademik dari dua dosen bergelar Doktor atau pimpinan bergelar Doktor.
 
-        7.  Unduh, cetak, isi, scan, dan unggah dokumen [**di sini**](https://drive.google.com/file/d/1_ZoV1c57HOlYCIxCgLE-WJSNpwvRX3Zo/view?usp=sharing){target="_blank"} khusus S3
+        7.  Surat Pernyataan Keaslian Dokumen pendaftaran [**(download)**](https://drive.google.com/file/d/1LnpmXVBU5NaSgOFDCaOSGQr2XEhA_UQA/view?usp=sharing).
 
-        8.  Proposal mini khusus S3
+        8.  Surat Pernyataan kesanggupan pembiayaan pendidikan.
 
-            > Proposal Mini adalah ide atau gagasan penelitian yang dituangkan dalam bentuk tulisan yang ditulis oleh mahasiswa S-3 Pascasarjana Untirta dengan maksud untuk mengetahui
-            > rencana penelitian dan menentukan dosen pembimbing/promotor.
+            > **Kumpulan Dokumen** :
+            >
+            > Unduh, cetak, isi, scan, dan unggah dokumen [**di sini**](https://drive.google.com/file/d/1_uH_GS-4tKLkoZodWsIoB1WCt9ncmbOK/view?usp=sharing){target="_blank"} bagi S2
+
+            <br><br>
+
+    B. **PROGRAM DOKTOR (S3)**
+
+    a.  Pas Photo terbaru
+
+    b.  Isi Biodata
+
+    c.  Unggah (*upload*) data pendukung:
+
+        1.  Ijazah S-1, S-2, Transkrip Nilai S-1, S-2 (Program Doktor)
+
+            > Khusus Program Studi Doktor Ilmu Akuntansi wajib melampirkan Ijazah S1 Akuntansi
+
+        2.  Sertifikat akreditasi program studi pada jenjang S2 yang berlaku terakhir
+
+        3.  Sertifikat TOEFL dengan skor minimal 450.
+
+        4.  Surat izin/tugas belajar dari instansi tempat bekerja bagi pendaftar yang sedang bekerja
+
+        5.  Surat keterangan sehat dari Fasilitas Kesehatan yang memiliki izin dari pemerintah
+
+        6.  Surat rekomendasi kelayakan akademik dari dua Profesor atau Doktor.
+
+        7.  Surat Pernyataan Keaslian Dokumen pendaftaran [**(download)**](https://drive.google.com/file/d/1LnpmXVBU5NaSgOFDCaOSGQr2XEhA_UQA/view?usp=sharing).
+
+        8.  Surat Pernyataan kesanggupan pembiayaan pendidikan.
+
+            > **Kumpulan Dokumen** :
+            >
+            > Unduh, cetak, isi, scan, dan unggah dokumen [**di sini**](https://drive.google.com/file/d/1_ZoV1c57HOlYCIxCgLE-WJSNpwvRX3Zo/view?usp=sharing){target="_blank"} bagi S3
+
+        9.  Mengunggah Proposal mini Disertasi khusus S3
+
+            > Proposal Mini adalah ide atau gagasan penelitian yang dituangkan dalam bentuk tulisan yang ditulis oleh mahasiswa S-3 Pascasarjana Untirta dengan maksud untuk mengetahui rencana penelitian dan menentukan dosen pembimbing/promotor.
             >
             > **Proposal Mini terdiri dari empat bagian**:
             >
-            > a\) Bagian pertama, membahas mengenai latar belakangan pemilihan topik, alasan pemilihan topik, pertanyaan penelitian, tujuan penelitian, dan kebaruan/inovasi penelitian (*state of theart*)
+            > a)  Bagian pertama, membahas mengenai latar belakangan pemilihan topik, alasan pemilihan topik, pertanyaan penelitian, tujuan penelitian, dan kebaruan/inovasi penelitian (*state of theart*)
             >
-            > b\) Bagian kedua, menjelaskan secara singkat mengenai teori utama dan teori pendukung yang akan digunakan dalam penelitian
+            > b)  Bagian kedua, menjelaskan secara singkat mengenai teori utama dan teori pendukung yang akan digunakan dalam penelitian
             >
-            > c\) Bagian ketiga, membahas tentang rencana metode yang akan diterapkan dalam penelitian, termasuk waktu, tempat, dan desain/pendekatan penelitian
+            > c)  Bagian ketiga, membahas tentang rencana metode yang akan diterapkan dalam penelitian, termasuk waktu, tempat, dan desain/pendekatan penelitian
             >
-            > d\)  Bagian keempat, mencantumkan daftar pustaka
+            > d)   Bagian keempat, mencantumkan daftar pustaka
             >
             > **Ketentuan Proposal Mini:**
             >
-            > a\)  Judul yang terdiri dari maksimum 12 kata
+            > a)   Judul yang terdiri dari maksimum 12 kata
             >
-            > b\) Tulisan terdiri dari 1500-2000 kata (6 -- 7 lembar)
+            > b)  Tulisan terdiri dari 1500-2000 kata (6 -- 7 lembar)
             >
-            > c\) Ditulis menggunakan i, dua spasi, font *Times New Roman*, ukuran font 12 poin, dan ukuran kertas A4
+            > c)  Ditulis menggunakan i, dua spasi, font *Times New Roman*, ukuran font 12 poin, dan ukuran kertas A4
             >
-            > d\) Penulisan sitasi dan daftar pustaka menggunakan *reference manager* (*EndNote, Mendeley,*
-            > atau program lain)
+            > d)  Penulisan sitasi dan daftar pustaka menggunakan *reference manager* (*EndNote, Mendeley,* atau program lain)
             >
-            > e\) Memuat minimal 15 buah artikel jurnal sebagai rujukan utama yang terbit dalam tujuh
-            > tahun terakhir.
+            > e)  Memuat minimal 15 buah artikel jurnal sebagai rujukan utama yang terbit dalam tujuh tahun terakhir.
             >
             > f) Secara umum, proposal mini ditulis menggunakan gaya *American Psychology Association* (APA).
             >
-            > g\) Disimpan dalam filePDF dengan ukuran maksimal 200 KB.
+            > g)  Disimpan dalam filePDF dengan ukuran maksimal 200 KB.
 
 ### Materi Ujian
 
-1.  Tes Potensi Akademik (TPA)
-2.  Wawancara
-3.  TOEFL
+1.  Tes Kemampuan Dasar Akademik (TKDA) dan Bahasa Inggris
 
-**Helpdesk** pendaftaran di Gedung Pascasarjana, Universitas Sultan Ageng Tirtayasa - Kampus Pakupatan. Telpon; [**0817738817**](https://wa.me/62817738817); [**081911106670**](https://wa.me/6281911106670)**; 08118883616; 08128558538**
+2.  Wawancara
+
+    ### PENGUMUMAN KELULUSAN
+
+    1.  Calon mahasiswa baru dapat melihat Pengumuman Kelulusan melalui web <https://admisi.untirta.ac.id> pada tab Pengumuman, atau bisa cek SK nya di web <https://untirta.ac.id>
+
+        ![](images/Tab%20Pengumuman-01.png)
+
+    2.  EMPAT (4) CARA MEMBAYAR UKT DI UNTIRTA : [**https://link.untirta.ac.id/UKTuntirta**](https://link.untirta.ac.id/UKTuntirta){.uri}
+
+    ### LAIN - LAIN
+
+    **Helpdesk** pendaftaran di Gedung H. Kartiwa Suriasaputra (Pascasarjana), Universitas Sultan Ageng Tirtayasa - Kampus Pakupatan. Telpon; [**0817738817**](https://wa.me/62817738817); [**081911106670**](https://wa.me/6281911106670)**; 08118883616; 08128558538**
 
 Email: [**pmb\@untirta.ac.id**](mailto:pmb@untirta.ac.id) dan [**humas\@untirta.ac.id**](mailto:humas@untirta.ac.id)
 
-Download brosur : [**disini**](https://drive.google.com/file/d/1yuiWmM5BFwm4XSiPlenG2A0TtpBt900I/view?usp=sharing)
+Download brosur : [**Brosur Pascasarjana**](https://drive.google.com/file/d/1yuiWmM5BFwm4XSiPlenG2A0TtpBt900I/view?usp=sharing) **- [S3 Akuntansi](https://drive.google.com/file/d/1mgUrcsv7Q9TqKtaXnlHblbEaXXnc41O9/view?usp=sharing) - [S3 Ilmu Pertanian](https://drive.google.com/file/d/1mdnsLflhvdmMcBtWd1xvb_pdUfwJ_SCC/view?usp=sharing) - [S2 Magister Ekonomi](https://drive.google.com/file/d/1pV6OZKa8b2_ah-P0UNgDe9jbk-EiTHWc/view?usp=sharing)**

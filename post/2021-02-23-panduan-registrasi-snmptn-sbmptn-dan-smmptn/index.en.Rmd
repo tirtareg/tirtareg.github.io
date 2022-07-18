@@ -1,5 +1,5 @@
 ---
-title: Panduan Registrasi Ulang SNMPTN, SBMPTN, dan SMMPTN
+title: Panduan Registrasi Ulang SNMPTN, SBMPTN, dan SMMPTN 2021
 author: registrasi
 date: '2021-02-23'
 slug: []
@@ -16,11 +16,11 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
 1.  Jadwal registrasi ulang\*
 
-    | NO  | SELEKSI | REGISTRASI ULANG         | PEMBAYARAN UKT       |
-    |:----|:--------|:-------------------------|:---------------------|
-    | 1\. | SNMPTN  | 29 Maret - 08 April 2022 | 12 - 23 April 2022   |
-    | 2\. | SBMPTN  | 23 - 30 Juni 2022        | 01 - 08 Juli 2022    |
-    | 3\. | SMMPTN  | 18 - 27 Juli 2022        | 01 - 08 Agustus 2022 |
+    | NO  | SELEKSI | REGISTRASI ULANG         | PEMBAYARAN UKT         |
+    |:----|:--------|:-------------------------|:-----------------------|
+    | 1\. | SNMPTN  | 22 Maret - 06 April 2021 | 12 - 23 April 2021     |
+    | 2\. | SBMPTN  | 14 - 26 Juni 2021        | 29 Juni - 09 Juli 2021 |
+    | 3\. | SMMPTN  | 15 - 21 Juli 2021        | 26 -30 Juli 2021       |
 
     ***\*) Jika ada perubahan jadwal akan kami informasikan melalui web / email.***
 

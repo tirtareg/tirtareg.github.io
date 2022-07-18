@@ -1,5 +1,5 @@
 ---
-title: Panduan Registrasi Ulang SNMPTN, SBMPTN, dan SMMPTN 2022
+title: Panduan Registrasi Ulang SNMPTN, SBMPTN, SMMPTN dan ADIK 2022
 author: registrasi
 date: '2022-03-10'
 slug: []
@@ -12,15 +12,19 @@ description: ''
 thumbnail: ''
 ---
 
+![](images/WhatsApp%20Image%202022-07-18%20at%2008.29.59.jpeg)
+
 Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nasional Masuk Perguruan Tinggi Negeri **(SNMPTN),** Seleksi Bersama Masuk Perguruan Tinggi (**SBMPTN**), Seleksi Mandiri Masuk Perguruan Tinggi Negeri Barat (**SMMPTN**), yang ditetapkan dengan SK Rektor Universitas Sultan Ageng Tirtayasa agar **mempersiapkan dan wajib melakukan kegiatan sebagai berikut**:
 
 1.  Jadwal registrasi ulang\*
 
-    | NO  | SELEKSI | REGISTRASI ULANG         | PEMBAYARAN UKT       |
-    |:----|:--------|:-------------------------|:---------------------|
-    | 1\. | SNMPTN  | 29 Maret - 08 April 2022 | 12 - 23 April 2022   |
-    | 2\. | SBMPTN  | 23 - 30 Juni 2022        | 01 - 08 Juli 2022    |
-    | 3\. | SMMPTN  | 18 - 27 Juli 2022        | 01 - 08 Agustus 2022 |
+    | NO  | SELEKSI               | REGISTRASI ULANG         | PEMBAYARAN UKT           |
+    |:----------|:----------------|:----------------------|:----------------|
+    | 1\. | SNMPTN                | 29 Maret - 08 April 2022 | 12 - 23 April 2022       |
+    | 2\. | ADIK (Afirmasi Dikti) | 13 -23 Juni 2022         | \-                       |
+    | 3\. | SBMPTN                | 23 - 30 Juni 2022        | 03 - 14 Juli 2022        |
+    | 4\. | **SMMPTN BARAT**      | **18 - 27 Juli 2022**    | **01 - 12 Agustus 2022** |
+    | 5\. | **PRESTASI**          | **18 Juli 2022**         | **01 - 12 Agustus 2022** |
 
     ***\*) Jika ada perubahan jadwal akan kami informasikan melalui web / email.***
 
@@ -32,46 +36,50 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
     A.  **Mempersiapkan dokumen** yang harus diunggah (*upload*) dalam bentuk **pdf** atau **jpg** (**ukuran file tidak melebihi 250 KB**).
 
-        > [Dokumen-dokumen yang harus disiapkan]{.ul} :
+        > [Dokumen-dokumen yang harus disiapkan]{.underline} :
 
-        1.  [**Pakta Integritas Uang Kuliah Tunggal**](https://drive.google.com/file/d/1eFAlVSPMtTBDPZJXrbRC6ETnY1eU--F7/view?usp=sharing){target="_blank"} (*download*, cetak, isi, *scan*).
+        1.  [**Pakta Integritas Uang Kuliah Tunggal**](https://drive.google.com/file/d/1eFAlVSPMtTBDPZJXrbRC6ETnY1eU--F7/view?usp=sharing){target="_blank"} (*download*, cetak, isi, *scan Asli*).
 
-        2.  [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1eDmL9tXhdXjfNSVceYwxh9a8gwuUcwYD/view?usp=sharing){target="_blank"} (*download*, cetak, isi, *scan*).
+        2.  [**Surat Pernyataan Mentaati Peraturan**](https://drive.google.com/file/d/1eDmL9tXhdXjfNSVceYwxh9a8gwuUcwYD/view?usp=sharing){target="_blank"} (*download*, cetak, isi, *scan Asli*).
 
-        3.  [**Surat Keterangan Data Keluarga**](https://drive.google.com/file/d/1hEugzLMDnwLt2nkqwGfRx-o1AnVFxyvk/view?usp=sharing) (*download*, cetak, isi, *scan*).
+        3.  [**Surat Keterangan Data Keluarga**](https://drive.google.com/file/d/1hEugzLMDnwLt2nkqwGfRx-o1AnVFxyvk/view?usp=sharing) (*download*, cetak, isi, *scan Asli*).
 
-        4.  Ijazah bagi lulusan 3 tahun terakhir : 2020, 2021, dan 2022 / Surat Keterangan Lulus (SKL) bagi lulusan tahun 2022 yang belum memperoleh Ijazah.
+        4.  Ijazah bagi lulusan 3 tahun terakhir : 2020, 2021, dan 2022 / Surat Keterangan Lulus (SKL) bagi lulusan tahun 2022 yang belum memperoleh Ijazah / Surat Keterangan Belum Ujian dari Sekolah bagi yang belum ujian. (Asli/Dilegalisir)
 
-        5.  Kartu Peserta Tes.
+            > Bagi yang belum melakukan Ujian di Sekolahnya bisa menggunakan **Surat Keterangan Kelas XII** dari Sekolah.
 
-        6.  Akta Kelahiran.
+        5.  Kartu Peserta Tes (Asli)
 
-        7.  Kartu Keluarga.
+        6.  Akta Kelahiran (Asli/Dilegalisir)
 
-        8.  Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar*.
+        7.  Kartu Keluarga (Asli/Dilegalisir)
 
-            Bagi pelanggan listrik 450VA yang digratiskan dan tidak memiliki bukti pembayaran bisa membuatnya di halaman [**\[https://stimulus.pln.co.id/\](https://stimulus.pln.co.id/)**](https://stimulus.pln.co.id/){.uri target="_blank"} seperti pada gambar berikut.
+        8.  Bukti pembayaran listrik bagi pelanggang *pascabayar* **atau** bukti pembelian token listrik bagi pelanggan *prabayar* (Asli)
+
+            Bagi pelanggan listrik 450VA yang digratiskan dan tidak memiliki bukti pembayaran bisa membuatnya di halaman [**https://stimulus.pln.co.id/**](https://stimulus.pln.co.id/){.uri target="_blank"} seperti pada gambar berikut.
 
             ![](pln.PNG)
 
-        9.  Bukti SPT Pajak Penghasilan Tahunan bagi memiliki.
+        9.  Bukti SPT Pajak Penghasilan Tahunan **bagi yang memiliki**, seperti contoh berikut. (Asli)
+
+            ![](images/spt%20pribadi_crop.jpg)
 
         10. Pilih salah satu yang paling sesuai.
 
             a.  SPPT Pajak Bumi dan Bangunan (PBB) tiga tahun terakhir (pilih salah satu)
-            b.  [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://drive.google.com/file/d/1eOsQ6Hk0Zk1y20Mxsy5ZP_0RVV5Am2N-/view?usp=sharing){target="_blank"} bagi yang tidak punya SPPT (*download*, cetak, isi, *scan*)
-            c.  Bukti pembayaran sewa rumah bagi yang mengontrak/sewa ditambah [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://drive.google.com/file/d/1eO1EXEMdsA3sfW8XbeO8NxYMLZ1N9CQA/view?usp=sharing){target="_blank"}
+            b.  [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://drive.google.com/file/d/1eOsQ6Hk0Zk1y20Mxsy5ZP_0RVV5Am2N-/view?usp=sharing){target="_blank"} bagi yang tidak punya SPPT (*download*, cetak, isi, *scan Asli*)
+            c.  Bukti pembayaran sewa rumah bagi yang mengontrak/sewa ditambah [**Surat Pernyataan tentang Luas Tanah dan Bangunan Rumah yang ditempati**](https://drive.google.com/file/d/1eO1EXEMdsA3sfW8XbeO8NxYMLZ1N9CQA/view?usp=sharing){target="_blank"}(*download*, cetak, isi, *scan Asli*)
 
-        11. Surat Tes Bebas Narkoba terbaru dari Laboratorium (*scan* dan *upload*)
+        11. Surat Tes Bebas Narkoba terbaru dari Rumah Sakit Pemerintah/BNN (*scan Asli* dan *upload*)
 
-        12. Surat Keterangan Kesehatan dari Rumah Sakit/Klinik/Puskesmas (*scan* dan *upload*)
+        12. Surat Keterangan Kesehatan dari Rumah Sakit/Klinik/Puskesmas (*scan Asli* dan *upload*)
 
-            > **Surat Sehat, Buta Warna dan Narkoba harus yang terbaru atau pemeriksaan mulai tanggal 29 Maret - 08 April 2022**
+            > **Surat Sehat, Buta Warna dan Narkoba harus yang terbaru atau pemeriksaan mulai tanggal 23 Juni - 30 Juni 2022**
 
         13. Surat Pemeriksaan Buta Warna dari Rumah Sakit/Klinik/Puskesmas untuk Program Studi berikut (*scan* dan *upload*) :
 
             | No.  | Program Studi                             | Keterangan                                |
-            |------|-------------------------------------------|-------------------------------------------|
+            |-------------------|---------------------------|---------------------------|
             | 1\.  | Pendidikan Biologi                        | Tidak Boleh Buta Warna                    |
             | 2\.  | Pendidikan Guru Sekolah Dasar             | Tidak Boleh Buta Warna                    |
             | 3\.  | Pendidikan Guru Pendidikan Anak Usia Dini | Tidak Boleh Buta Warna                    |
@@ -100,13 +108,15 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
         12. Bukti Penghasilan Ayah atau diisi dengan penghasilan Wali yang membiayai Kuliah dengan ketentuan sebagai berikut.
 
-            -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta**: Slip Gaji / Bukti Penghasilan (maksimal dua bulan terakhir),
+            -   Dokumen yang diunggah (Slip Gaji/Surat Keterangan Penghasilan, dll.) adalah dokumen terbaru, **Tanggal pembuatan tahun 2022**
 
-            -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Pekerjaan yang tidak mempunyai Slip Gaji/Tidak Mempunyai Pekerjaan Tetap** : Surat Keterangan Penghasilan dari Kelurahan dengan mencantumkan NAMA PEKERJAAN dan NOMINAL PENGHASILANNYA
+            -   **PNS**/**TNI**/**BUMN**/**Karyawan Swasta**: Slip Gaji / Bukti Penghasilan (maksimal dua bulan terakhir), Asli dan Dicap dan Ditandatangani.
 
-            -   **Pensiunan PNS** : Surat Pensiun / *print out* Buku Rekening Pensiun (max dua bulan terakhir).
+            -   **Wiraswasta**/**Petani**/**Pedagang**/**Buruh**/**Pekerjaan yang tidak mempunyai Slip Gaji/Tidak Mempunyai Pekerjaan Tetap** : Surat Keterangan Penghasilan dari Kelurahan dengan mencantumkan NAMA PEKERJAAN dan NOMINAL PENGHASILANNYA. Asli dan Dicap dan Ditandatangani.
 
-            -   **Pensiunan Swasta :** Surat Keterangan Pensiun dari Kantor.
+            -   **Pensiunan PNS** : Surat Pensiun / *print out* Buku Rekening Pensiun (max dua bulan terakhir). (*scan Asli* dan *upload*)
+
+            -   **Pensiunan Swasta :** Surat Keterangan Pensiun dari Kantor. (*scan Asli* dan *upload*)
 
                 > -   **Jika Ibu hanya Ibu Rumah Tangga lampirkan Surat Keterangan dari Kelurahan.**
                 >
@@ -122,13 +132,13 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
             -   Perempuan: jas hitam/blazer, baju putih, dasi hitam, *background* merah,
             -   Perempuan berjilbab: jilbab warna putih, *background* merah, jas hitam/blazer tanpa dasi.
 
-        14. Berkas dan registrasi tambahan bagi pendaftar KIP-Kuliah bisa diakses [**di sini**](/post/2021-06-14-daftar-ulang-mahasiswa-baru-peserta-kip-kuliah-jalur-sbmptn-2021/){target="_blank"}.
+        14. Berkas dan registrasi tambahan bagi pendaftar KIP-Kuliah bisa diakses [**di sini**](/post/2022-03-28-daftar-ulang-calon-mahasiswa-baru-peserta-kip-kuliah-jalur-snmptn-2022/){target="_blank"}.
 
         > Isilah dengan **BENAR**, **AKURAT**, dan **JUJUR** semua data diri anda. Kesalahan dalam mengisi data dan memahami panduan registrasi menjadi tanggung jawab calon mahasiswa baru.
         >
         > **Pertanyaan / Isian yang bertanda bintang (\*) wajib di isi**, sedangkan untuk pertanyaan yang tidak ada tanda bintang bisa di isi jika anda mempunyai datanya atau boleh dikosongkan.
 
-        <br><br>
+        <br>![](images/INGAT.png)
 
     B.  **Menunggu Username dan Password** untuk login ke laman <https://admisi.untirta.ac.id>. yang akan dikirim oleh Panitia Registrasi ke email calon mahasiswa baru.
 
@@ -136,7 +146,9 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 
     C.  **Registrasi Ulang online** melakukan pengisian data diri dan mengunggah dokumen-dokumen yang diminta secara online di laman <https://admisi.untirta.ac.id>.
 
-    D.  **Menerima nominal UKT** yang bisa dilihat di [\<https://admisi.untirta.ac.id>](https://admisi.untirta.ac.id){.uri} menggunakan akun *username* dan *password* masing-masing sesuai jadwal pembayaran.
+        > **Cetak Bukti Registrasi Online dan simpan** sebagai bukti jika dibutuhkan (tidak perlu tanda tangan petugas)
+
+    D.  **Menerima nominal UKT** yang bisa dilihat di [\<https://admisi.untirta.ac.id\>](https://admisi.untirta.ac.id){.uri} menggunakan akun *username* dan *password* masing-masing sesuai jadwal pembayaran.
 
     E.  **Melakukan Pembayaran** Uang Kuliah Tunggal (UKT) di Bank BNI seluruh Cabang Indonesia melalui *Teller* atau ATM. Tata cara pembayaran UKT bisa diakses [**di sini**](https://drive.google.com/file/d/1IIaFh62Irl6cK4EpdaTqcwOk3OMfmH8t/view?usp=sharing){target="_blank"}.
 
