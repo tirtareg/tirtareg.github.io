@@ -19,12 +19,12 @@ Calon Mahasiswa Baru yang sudah **dinyatakan** **Lulus lewat** jalur Seleksi Nas
 1.  Jadwal registrasi ulang\*
 
     | NO  | SELEKSI               | REGISTRASI ULANG         | PEMBAYARAN UKT           |
-    |:----------|:----------------|:----------------------|:----------------|
+    |:----------------|:----------------|:----------------------|:----------------|
     | 1\. | SNMPTN                | 29 Maret - 08 April 2022 | 12 - 23 April 2022       |
     | 2\. | ADIK (Afirmasi Dikti) | 13 -23 Juni 2022         | \-                       |
     | 3\. | SBMPTN                | 23 - 30 Juni 2022        | 03 - 14 Juli 2022        |
     | 4\. | **SMMPTN BARAT**      | **18 - 27 Juli 2022**    | **01 - 12 Agustus 2022** |
-    | 5\. | **PRESTASI**          | **18 Juli 2022**         | **01 - 12 Agustus 2022** |
+    | 5\. | **PRESTASI**          | \-                       | **01 - 12 Agustus 2022** |
 
     ***\*) Jika ada perubahan jadwal akan kami informasikan melalui web / email.***
 
